@@ -10,7 +10,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # Environ
 env = environ.Env()
-env.read_env(os.path.join(BASE_DIR, '.env'))
+HEROKU_ENV = env.bool('DJANGO_HEROKU_ENV', default=False)
+
+if not HEROKU_ENV:
+    env.read_env(os.path.join(BASE_DIR, '.env'))
 
 
 # SECURITY WARNING: keep the secret key used in production secret!
