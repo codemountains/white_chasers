@@ -12,17 +12,21 @@ class Resort(models.Model):
 		editable=False
 	)
 	name = models.CharField(max_length=100)
-	name_kana = models.CharField(max_length=200)
-	postal_code = models.CharField(max_length=8)
+	name_kana = models.CharField(max_length=200, blank=True, null=True)
+	postal_code = models.CharField(max_length=8, blank=True, null=True)
 	prefecture = models.IntegerField(choices=PREFECTURE)
-	address = models.CharField(max_length=200)
+	address = models.CharField(max_length=200, blank=True, null=True)
 	latitude = models.DecimalField(
 		max_digits=9,
-		decimal_places=6
+		decimal_places=6,
+		blank=True,
+		null=True
 	)
 	longitude = models.DecimalField(
 		max_digits=9,
-		decimal_places=6
+		decimal_places=6,
+		blank=True,
+		null=True
 	)
 	url = models.URLField(blank=True, null=True)
 	live_camera_url = models.URLField(blank=True, null=True)
