@@ -1,0 +1,5162 @@
+[
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "明野ヶ丘スキー場",
+      "name_kana": "アケノガオカスキー場",
+      "postal_code": "089-0612",
+      "prefecture": 1,
+      "address": "中川郡幕別町字明野496-18",
+      "latitude": 42.89702700002865,
+      "longitude": 143.37197492653942,
+      "url": "http://makubetsu-ski.com/category/news-ao/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "朝里川温泉スキー場",
+      "name_kana": "アサリカワオンセンスキージョウ",
+      "postal_code": "047-0154",
+      "prefecture": 1,
+      "address": "小樽市朝里川温泉1丁目394",
+      "latitude": 43.143507480273264,
+      "longitude": 141.0367485158993,
+      "url": "https://asari-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "安平山スキー場",
+      "name_kana": "アンペイザンスキージョウ",
+      "postal_code": "059-1987",
+      "prefecture": 1,
+      "address": "勇払郡安平町追分豊栄193",
+      "latitude": 42.86400334308028,
+      "longitude": 141.79808655537448,
+      "url": "https://www.town.abira.lg.jp/midokoro/shisetsu/sport/149",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "石狩平原スキー場",
+      "name_kana": "イシカリヘイゲンスキージョウ",
+      "postal_code": "061-0208",
+      "prefecture": 1,
+      "address": "石狩郡当別町弁華別3002",
+      "latitude": 43.26089467914089,
+      "longitude": 141.50708625538746,
+      "url": "https://www.ishikari-heigen-ski.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "今金町ピリカスキー場",
+      "name_kana": "イマカネチョウピリカスキージョウ",
+      "postal_code": "049-4151",
+      "prefecture": 1,
+      "address": "瀬棚郡今金町字美利河205-1",
+      "latitude": 42.4637912327847,
+      "longitude": 140.2031671122386,
+      "url": "https://kurplazapirika.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "IWANAI RESORT（旧：ニセコいわない国際スキー場）",
+      "name_kana": "イワナイ リゾート",
+      "postal_code": "045-0024",
+      "prefecture": 1,
+      "address": "岩内郡岩内町字野束350-4",
+      "latitude": 42.94765823241138,
+      "longitude": 140.51305965537728,
+      "url": "https://iwanairesort.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "岩見沢萩の山市民スキー場",
+      "name_kana": "",
+      "postal_code": "068-0836",
+      "prefecture": 1,
+      "address": "岩見沢市上志文町452",
+      "latitude": 43.1654918299605,
+      "longitude": 141.81016292654812,
+      "url": "http://www.haginoyama.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ウィンザースノービレッジ",
+      "name_kana": "ウィンザースノービレッジ",
+      "postal_code": "049-5722",
+      "prefecture": 1,
+      "address": "虻田郡洞爺湖町清水",
+      "latitude": 42.59186956345135,
+      "longitude": 140.75736657571636,
+      "url": "http://www.windsor-hotels.co.jp/ja/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "枝幸町三笠山スキー場",
+      "name_kana": "エサシチョウミカサヤマスキージョウ",
+      "postal_code": "098-5822",
+      "prefecture": 1,
+      "address": "枝幸郡枝幸町北幸町",
+      "latitude": 44.93341827910207,
+      "longitude": 142.56472495544358,
+      "url": "http://www.ski.npo-emsc.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "恵庭市民スキー場",
+      "name_kana": "",
+      "postal_code": "061-1422",
+      "prefecture": 1,
+      "address": "恵庭市盤尻330-2",
+      "latitude": 42.846425245319914,
+      "longitude": 141.4893513265378,
+      "url": "https://www.city.eniwa.hokkaido.jp/kurashi/kosodate_kyoiku/sports/sportsshisetsu/7967.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "置戸町南ヶ丘スキー場",
+      "name_kana": "オケトチョウミナミガオカスキージョウ",
+      "postal_code": "099-1115",
+      "prefecture": 1,
+      "address": "常呂郡置戸町字置戸284-52",
+      "latitude": 43.67587957912448,
+      "longitude": 143.60029582656523,
+      "url": "",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "小樽天狗山スキー場",
+      "name_kana": "オタルテングヤマスキージョウ",
+      "postal_code": "047-0023",
+      "prefecture": 1,
+      "address": "小樽市最上2-16-15",
+      "latitude": 43.177608079144534,
+      "longitude": 140.9752615553848,
+      "url": "http://tenguyama.ckk.chuo-bus.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "音威富士スキー場",
+      "name_kana": "オトイフジスキージョウ",
+      "postal_code": "098-2501",
+      "prefecture": 1,
+      "address": "中川郡音威子府村字音威子府200-6",
+      "latitude": 44.72053487910306,
+      "longitude": 142.27998295543642,
+      "url": "https://www.vill.otoineppu.hokkaido.jp/kakuka/sangyoushinkou/syoukougyou/skizyou.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "オロフレスキー場",
+      "name_kana": "オロフレスキージョウ",
+      "postal_code": "052-0115",
+      "prefecture": 1,
+      "address": "有珠郡壮瞥町字弁景204-5",
+      "latitude": 42.55781597917822,
+      "longitude": 140.98576272652838,
+      "url": "https://orofure.web.fc2.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "上川町営中山スキー場",
+      "name_kana": "カミカワチョウエイナカヤマスキージョウ",
+      "postal_code": "",
+      "prefecture": 1,
+      "address": "",
+      "latitude": 43.851796679119026,
+      "longitude": 142.78058672657102,
+      "url": "https://www.taisetsu-kamui.jp/adventure/nakayama/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "カムイスキーリンクス",
+      "name_kana": "カムイスキーリンクス",
+      "postal_code": "074-1181",
+      "prefecture": 1,
+      "address": "旭川市神居町西丘112",
+      "latitude": 43.70497473507621,
+      "longitude": 142.18712345540214,
+      "url": "https://www.kamui-skilinks.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "かもい岳スキー場",
+      "name_kana": "カモイダケスキージョウ",
+      "postal_code": "073-0404",
+      "prefecture": 1,
+      "address": "歌志内市歌神95",
+      "latitude": 43.520543889812565,
+      "longitude": 142.01914379772376,
+      "url": "http://m-kamoi.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "カルルス温泉サンライバスキー場",
+      "name_kana": "カルルスオンセンサンライバスキージョウ",
+      "postal_code": "059-0553",
+      "prefecture": 1,
+      "address": "登別市カルルス町27",
+      "latitude": 42.521657093956954,
+      "longitude": 141.104736897691,
+      "url": "https://sanlaiva.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "キャンモアスキービレッジ",
+      "name_kana": "キャンモアスキービレッジ",
+      "postal_code": "071-1405",
+      "prefecture": 1,
+      "address": "上川郡東川町西5号北7線",
+      "latitude": 43.73040322898225,
+      "longitude": 142.53888010292474,
+      "url": "https://www.canmore-ski.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "北見市留辺蘂町 八方台スキー場",
+      "name_kana": "キタミシルベシチョウ ハッポウダイスキーショウ",
+      "postal_code": "091-0026",
+      "prefecture": 1,
+      "address": "北見市留辺蘂町旭公園",
+      "latitude": 43.769951726662306,
+      "longitude": 143.61302599773208,
+      "url": "https://www.city.kitami.lg.jp/docs/6406/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "北見若松市民スキー場",
+      "name_kana": "キタミワカワツシミンスキージョウ",
+      "postal_code": "090-0808",
+      "prefecture": 1,
+      "address": "北見市若松651",
+      "latitude": 43.75522605254692,
+      "longitude": 143.921239202803,
+      "url": "http://kousya.sakura.ne.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "清里町営緑スキー場",
+      "name_kana": "キヨサトチョウエイミドリスキージョウ",
+      "postal_code": "099-4525",
+      "prefecture": 1,
+      "address": "斜里郡清里町緑町51-1",
+      "latitude": 43.72010452512916,
+      "longitude": 144.50297355540266,
+      "url": "https://www.town.kiyosato.hokkaido.jp/gyousei/kurashi/kyouiku-bunka/shisetsu/suki-.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "KIRORO SNOW WORLD",
+      "name_kana": "キロロ スノー ワールド",
+      "postal_code": "046-0593",
+      "prefecture": 1,
+      "address": "余市郡赤井川村常盤128番地1",
+      "latitude": 43.067445,
+      "longitude": 140.989052,
+      "url": "https://www.kiroro.co.jp/ja/snowworld/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "倶知安町旭ヶ丘スキー場",
+      "name_kana": "クッチャンチョウアサヒガオカスキージョウ",
+      "postal_code": "044-0083",
+      "prefecture": 1,
+      "address": "虻田郡倶知安町字旭",
+      "latitude": 42.90164295475657,
+      "longitude": 140.73856510000002,
+      "url": "http://www.town.kutchan.hokkaido.jp/culture-sports/sports-shisetsu/asahigaoka-ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "グリーンピア大沼スキー場",
+      "name_kana": "グリーンピアオオヌマスキージョウ",
+      "postal_code": "049-2277",
+      "prefecture": 1,
+      "address": "茅部郡森町字赤井川229",
+      "latitude": 42.00101959807465,
+      "longitude": 140.60153502651048,
+      "url": "https://www.gp-onuma.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "国設阿寒湖畔スキー場【ウタラ】",
+      "name_kana": "コクセツアカンコスキージョウ ウタラ",
+      "postal_code": "085-0467",
+      "prefecture": 1,
+      "address": "釧路市阿寒町シュリコマベツ4-4",
+      "latitude": 43.4250277712139,
+      "longitude": 144.08531172655674,
+      "url": "https://akan-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "国設芦別スキー場",
+      "name_kana": "コクセツアシベツスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.52774942144214,
+      "longitude": 142.1947677265602,
+      "url": "https://www.city.ashibetsu.hokkaido.jp/docs/9543.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "国設南ふらのスキー場",
+      "name_kana": "コクセツミナミフラノスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.159832031410765,
+      "longitude": 142.5587009688757,
+      "url": "http://town.minamifurano.hokkaido.jp/all-facility/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "札幌国際スキー場",
+      "name_kana": "サッポロコクサイスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.072225279149585,
+      "longitude": 141.08280395538142,
+      "url": "https://www.sapporo-kokusai.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "サッポロテイネ",
+      "name_kana": "サッポロテイネ",
+      "postal_code": "006-0049",
+      "prefecture": 1,
+      "address": "札幌市手稲区手稲金山１７２",
+      "latitude": 43.084304,
+      "longitude": 141.205341,
+      "url": "https://sapporo-teine.com/snow/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "さっぽろばんけいスキー場",
+      "name_kana": "サッポロバンケイスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.030512679151535,
+      "longitude": 141.27805959770777,
+      "url": "http://www.bankei.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "札幌藻岩山スキー場",
+      "name_kana": "サッポロモイワヤマスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.012393869136304,
+      "longitude": 141.3331582553793,
+      "url": "http://www.rinyu.co.jp/moiwa/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "サホロリゾートスキー場",
+      "name_kana": "サホロリゾートスキージョウ",
+      "postal_code": "081-0039",
+      "prefecture": 1,
+      "address": "上川郡新得町狩勝高原",
+      "latitude": 43.174706,
+      "longitude": 142.808018,
+      "url": "https://sahoro.co.jp/winter/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "佐呂間町営スキー場",
+      "name_kana": "サロマチョウエイスキージョウ",
+      "prefecture": 1,
+      "latitude": 44.00872317911472,
+      "longitude": 143.75494102657623,
+      "url": "http://www.town.saroma.hokkaido.jp/shisetsu/sports_bunka/ski.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "サンタプレゼントパーク マロースゲレンデ",
+      "name_kana": "サンタプレゼントパーク マロースゲレンデ",
+      "prefecture": 1,
+      "latitude": 43.7609527765357,
+      "longitude": 142.30258406889573,
+      "url": "http://www.santapresentpark.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "暑寒別岳スキー場",
+      "name_kana": "ショカンベツダケスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.8096387639175,
+      "longitude": 141.52896292656968,
+      "url": "http://www.town.mashike.hokkaido.jp/menu/kanko/ski/syoski.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "士別市あさひスキー場",
+      "name_kana": "シベツシアサヒスキージョウ",
+      "prefecture": 1,
+      "latitude": 44.11986097911206,
+      "longitude": 142.59873172658,
+      "url": "http://www.city.shibetsu.lg.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "士別市 日向スキー場",
+      "name_kana": "シベツシ ヒナタスキージョウ",
+      "prefecture": 1,
+      "latitude": 44.26558422826168,
+      "longitude": 142.34376179774867,
+      "url": "http://www.city.shibetsu.lg.jp/www/contents/1225177419765/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "標津町営金山スキー場",
+      "name_kana": "シベツチョウエイカナヤマスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.74317383013111,
+      "longitude": 144.92737575540352,
+      "url": "http://www.nemuro.pref.hokkaido.lg.jp/ss/srk/kanko/nmrgsdb/8outdoor/8o-kanayamaski.htm",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "SNOW CRUISE ONZE",
+      "name_kana": "スノークルーズオーンズ",
+      "prefecture": 1,
+      "latitude": 43.14595445123756,
+      "longitude": 141.1322708265476,
+      "url": "http://onze.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "そっち岳スキー場",
+      "name_kana": "ソッチダケスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.53798583418058,
+      "longitude": 141.7989495265607,
+      "url": "https://www.town.shintotsukawa.lg.jp/kanko/detail/00003261.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "滝野スノーワールド",
+      "name_kana": "タキノスノーワールド",
+      "prefecture": 1,
+      "latitude": 42.91677813635166,
+      "longitude": 141.38875975537627,
+      "url": "http://www.takinopark.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "大雪山 黒岳スキー場",
+      "name_kana": "タイセツザン クロダケスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.71068986869992,
+      "longitude": 142.93886322656635,
+      "url": "https://www.rinyu.co.jp/kurodake/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ダイナスティスキーリゾート",
+      "name_kana": "ダイナスティスキーリゾート",
+      "prefecture": 1,
+      "latitude": 42.93150597915686,
+      "longitude": 141.45159295537667,
+      "url": "http://www.dynasty-resort.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "忠類白銀台スキー場",
+      "name_kana": "チュウルイハクギンダイスキージョウ",
+      "prefecture": 1,
+      "latitude": 42.563590979177924,
+      "longitude": 143.31001465536468,
+      "url": "http://makubetsu-ski.com/category/news-hg/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "とうま山スキー場",
+      "name_kana": "トウマヤマスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.83650875322108,
+      "longitude": 142.53833826015278,
+      "url": "http://town.tohma.hokkaido.jp/about-tohma/sisetuannnai/sports-shisetu/286/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "豊富温泉スキー場",
+      "name_kana": "トヨトミオンセンスキージョウ",
+      "prefecture": 1,
+      "latitude": 45.07406635572154,
+      "longitude": 141.84197282683797,
+      "url": "http://www.n43.net/ski/toyotomi/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "中頓別町寿スキー場",
+      "name_kana": "ナカトンベツチョウコトブキスキージョウ",
+      "prefecture": 1,
+      "latitude": 44.99284357910178,
+      "longitude": 142.2879073691626,
+      "url": "https://ja-jp.facebook.com/kotobuki.ski.resort",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "中富良野北星スキー場",
+      "name_kana": "ナカフラノキタボシスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.41159286056459,
+      "longitude": 142.420429469114,
+      "url": "http://www.town.nakafurano.lg.jp/hotnews/detail/00000722.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "中山峠スキー場",
+      "name_kana": "ナカヤマトウゲスキージョウ",
+      "prefecture": 1,
+      "latitude": 42.85059357604717,
+      "longitude": 141.0947845690972,
+      "url": "http://nakayama-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "長沼スキー場",
+      "name_kana": "ナガヌマスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.03931052070315,
+      "longitude": 141.74409689793916,
+      "url": "https://www.maoi-net.jp/shisetsu/0014.htm",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "名寄ピヤシリスキー場",
+      "name_kana": "ナヨロピヤシリスキージョウ",
+      "prefecture": 1,
+      "latitude": 44.404413114224916,
+      "longitude": 142.51345072681715,
+      "url": "http://www.nayoro.co.jp/piyashiri/youkosopiyashiri.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "仁木町民スキー場",
+      "name_kana": "ニキチョウミンスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.1155639791471,
+      "longitude": 140.7311729979415,
+      "url": "https://www.niki-kanko.jp/spot/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ニセコアンヌプリ国際スキー場",
+      "name_kana": "ニセコアンヌプリコクサイスキージョウ",
+      "prefecture": 1,
+      "latitude": 42.84749517723097,
+      "longitude": 140.64793986909723,
+      "url": "http://annupuri.info/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ニセコHANAZONOリゾート",
+      "name_kana": "ニセコハナゾノリゾート",
+      "postal_code": "044-0082",
+      "prefecture": 1,
+      "address": "虻田郡倶知安町岩尾別３２８−３６",
+      "latitude": 42.892845,
+      "longitude": 140.699130,
+      "url": "https://hanazononiseko.com/ja/winter",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ニセコビレッジスキーリゾート",
+      "name_kana": "ニセコビレッジスキーリゾート",
+      "prefecture": 1,
+      "latitude": 42.84698574524815,
+      "longitude": 140.6843442556064,
+      "url": "http://www.niseko-village.com/ja/white/mountain.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ニセコマウンテンリゾート グラン・ヒラフ",
+      "name_kana": "ニセコマウンテンリゾート グラン・ヒラフ",
+      "postal_code": "044-0081",
+      "prefecture": 1,
+      "address": "虻田郡倶知安町字山田204",
+      "latitude": 42.861850,
+      "longitude": 140.698612,
+      "url": "https://www.grand-hirafu.jp/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ニセコモイワスキーリゾート",
+      "name_kana": "ニセコモイワスキーリゾート",
+      "prefecture": 1,
+      "latitude": 42.848194413228754,
+      "longitude": 140.6303167979335,
+      "url": "https://niseko-moiwa.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ニヤマ高原スキー場",
+      "name_kana": "ニヤマコウゲンスキージョウ",
+      "prefecture": 1,
+      "latitude": 41.933223160662656,
+      "longitude": 140.63418822674288,
+      "url": "http://niyama.grow8.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ぬかびら源泉郷スキー場",
+      "name_kana": "ヌカビラオンセンキョウスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.36389027913602,
+      "longitude": 143.18704562678545,
+      "url": "https://www.facebook.com/nukabira/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "沼田町営高穂スキー場",
+      "name_kana": "ヌマタチョウエイタカホスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.82076273816474,
+      "longitude": 141.96309406912636,
+      "url": "https://www.town.numata.hokkaido.jp/section/kyouiku/ujj7s30000001mvv.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "函館七飯スノーパーク",
+      "name_kana": "ハコダテナナエスノーパーク",
+      "postal_code": "041-1351",
+      "prefecture": 1,
+      "address": "亀田郡七飯町東大沼666",
+      "latitude": 41.986537,
+      "longitude": 140.746724,
+      "url": "https://hakodate-nanae.jp/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "羽幌町民スキー場 びゅー",
+      "name_kana": "ハボロチョウミンスキージョウ ビュー",
+      "prefecture": 1,
+      "latitude": 44.316032526203436,
+      "longitude": 141.78491976928208,
+      "url": "https://www.town.haboro.lg.jp/shisetsu/sports/ski-byu.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "日高国際スキー場",
+      "name_kana": "ヒダカコクサイスキージョウ",
+      "prefecture": 1,
+      "latitude": 42.8704930160676,
+      "longitude": 142.44652989793425,
+      "url": "http://www.town.hidaka.hokkaido.jp/site/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "美唄国設スキー場",
+      "name_kana": "ヒバイコクサイスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.321943468468,
+      "longitude": 141.9503513691114,
+      "url": "http://www.city.bibai.hokkaido.jp/jyumin/soshiki/syokoKanko/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ぴっぷスキー場",
+      "name_kana": "ヒップスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.93310265274172,
+      "longitude": 142.4998308979663,
+      "url": "http://www.town.pippu.hokkaido.jp/ski/top.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "富良野スキー場",
+      "name_kana": "フラノスキージョウ",
+      "postal_code": "076-8511",
+      "prefecture": 1,
+      "address": "富良野市中御料",
+      "latitude": 43.327304,
+      "longitude": 142.338077,
+      "url": "https://www.princehotels.co.jp/ski/furano/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "星野リゾート トマム スキー場",
+      "name_kana": "ホシノリゾート トマム スキージョウ",
+      "postal_code": "079-2204",
+      "prefecture": 1,
+      "address": "勇払郡 占冠村中トマム",
+      "latitude": 43.069300,
+      "longitude": 142.615015,
+      "url": "https://www.snowtomamu.jp/winter/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ほろたちスキー場",
+      "name_kana": "ホロタチスキージョウ",
+      "prefecture": 1,
+      "latitude": 44.01531999509261,
+      "longitude": 142.13563562756377,
+      "url": "http://www.dankejapan.co.jp/horotachi.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "幌延町東ヶ丘スキー場",
+      "name_kana": "ホロノベチョウヒガシガオカスキージョウ",
+      "prefecture": 1,
+      "latitude": 45.01938999523752,
+      "longitude": 141.85357484032698,
+      "url": "http://www.town.horonobe.hokkaido.jp/www4/section/edu/le009f0000001go7.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "マウントレースイスキーリゾート",
+      "name_kana": "マウントレースイスキーリゾート",
+      "postal_code": "068-0411",
+      "prefecture": 1,
+      "address": "夕張市末広2-4",
+      "latitude": 43.050689,
+      "longitude": 141.969842,
+      "url": "https://mountracey-resort.com/skiarea/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "三笠桂沢国設スキー場",
+      "name_kana": "ミカサカツラザワコクセツスキージョウ",
+      "prefecture": 1,
+      "latitude": 43.251991793458416,
+      "longitude": 141.98100791329136,
+      "url": "https://www.city.mikasa.hokkaido.jp/sightseeing/category_sp/122.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "メムロスキー場",
+      "name_kana": "メロムスキージョウ",
+      "prefecture": 1,
+      "latitude": 42.83078174731223,
+      "longitude": 142.98848824026024,
+      "url": "http://www.shin-arashiyama.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "紋別市営大山スキー場",
+      "name_kana": "モンベツシエイオオヤマスキージョウ",
+      "prefecture": 1,
+      "latitude": 44.347925134550245,
+      "longitude": 143.33252992681548,
+      "url": "http://mombetsu.jp/sisetu/sports/monbetu_2.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "湧別町 五鹿山スキー場",
+      "name_kana": "ユウベツチョウ ゴカザンスキーショウ",
+      "prefecture": 1,
+      "latitude": 44.18364118535939,
+      "longitude": 143.6094807556469,
+      "url": "https://www.town.yubetsu.lg.jp/50shisetsu/5outsports/ski-gokayama.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ルスツリゾート",
+      "name_kana": "ルスツリゾート",
+      "postal_code": "048-1711",
+      "prefecture": 1,
+      "address": "虻田郡留寿都村字泉川13番地",
+      "latitude": 42.736794,
+      "longitude": 140.910567,
+      "url": "https://rusutsu.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "稚内市こまどりスキー場",
+      "name_kana": "ワッカナイシコマドリスキージョウ",
+      "prefecture": 1,
+      "latitude": 45.38685678421912,
+      "longitude": 141.68712319801134,
+      "url": "http://w-shinko.co.jp/komadori-ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "和寒町東山スキー場",
+      "name_kana": "ワッサムチョウヒガシヤマスキージョウ",
+      "prefecture": 1,
+      "latitude": 44.0341267526395,
+      "longitude": 142.41371785564218,
+      "url": "http://www.town.wassamu.hokkaido.jp/school-board/%E6%95%99%E8%82%B2%E5%A7%94%E5%93%A1%E4%BC%9A%E6%96%BD%E8%A8%AD/ski-resort/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "青森スプリング・スキーリゾート",
+      "name_kana": "アオモリスプリング・スキーリゾート",
+      "prefecture": 2,
+      "latitude": 40.69319311406868,
+      "longitude": 140.27931072646913,
+      "url": "https://aomorispringski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "創遊村229スキーランド",
+      "name_kana": "ソウユウムラ229スキーランド",
+      "prefecture": 2,
+      "latitude": 40.36481637937562,
+      "longitude": 141.071772555295,
+      "url": "http://www.town.takko.lg.jp/index.cfm/11,0,37,164,html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "大鰐温泉スキー場",
+      "name_kana": "オオワニオンセンスキージョウ",
+      "prefecture": 2,
+      "latitude": 40.50489042168382,
+      "longitude": 140.5670942552994,
+      "url": "http://www.owani-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "まかど温泉スキー場",
+      "name_kana": "マカドオンセンスキーショウ",
+      "prefecture": 2,
+      "latitude": 40.87520620425453,
+      "longitude": 141.0707607264747,
+      "url": "http://www.toutetsu.co.jp/ski.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "八甲田スキー場",
+      "name_kana": "ハッコウダスキージョウ",
+      "prefecture": 2,
+      "latitude": 40.68080629485622,
+      "longitude": 140.83166887780186,
+      "url": "http://www.hakkoda-ropeway.jp/service/ski",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "むつ市釜臥山スキー場",
+      "name_kana": "ムツシカマフセスキージョウ",
+      "prefecture": 2,
+      "latitude": 41.26272784407494,
+      "longitude": 141.13824756881462,
+      "url": "http://mutsu-taikyo.jp/ski.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "十和田湖温泉スキー場",
+      "name_kana": "トワダコオンセンスキージョウ",
+      "prefecture": 2,
+      "latitude": 40.57928349972932,
+      "longitude": 140.99327336771998,
+      "url": "http://www.oirase.or.jp/ski/ski.htm",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "そうまロマントピアスキー場",
+      "name_kana": "ソウマロマントピアスキージョウ",
+      "prefecture": 2,
+      "latitude": 40.575702426527926,
+      "longitude": 140.39009845530168,
+      "url": "http://www.iwakisansportspark.com/soma/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "岩木山百沢スキー場",
+      "name_kana": "イワキサンヒャクザワスキージョウ",
+      "prefecture": 2,
+      "latitude": 40.62831793718464,
+      "longitude": 140.3308119727608,
+      "url": "https://www.hyakuzawa-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "七戸町営スキー場",
+      "name_kana": "シチノヘチョウエイスキージョウ",
+      "prefecture": 2,
+      "latitude": 40.698023045198006,
+      "longitude": 141.09896795530543,
+      "url": "http://www.shichinohe-kankou.jp/kazoku/ski",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "モヤヒルズ",
+      "name_kana": "モヤヒルズ",
+      "prefecture": 2,
+      "latitude": 40.73661204990746,
+      "longitude": 140.79408689763426,
+      "url": "http://www.moyahills.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "夜越山スキー場",
+      "name_kana": "ヨゴシヤマスキージョウ",
+      "prefecture": 2,
+      "latitude": 40.92169819285002,
+      "longitude": 140.9877974553124,
+      "url": "http://start.purea-web.net/yogoshiyama/ski.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "安比高原スキー場",
+      "name_kana": "アッピコウゲンスキージョウ",
+      "prefecture": 3,
+      "latitude": 40.00228995338531,
+      "longitude": 140.97054089785132,
+      "url": "https://www.appi.co.jp/ski",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "赤羽根スキー場",
+      "name_kana": "アカバネスキージョウ",
+      "prefecture": 3,
+      "latitude": 39.24763483121075,
+      "longitude": 141.59655719783044,
+      "url": "http://www.tonotv.com/members/shisetsu/akabane/index.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "網張温泉スキー場",
+      "name_kana": "アミハリオンセンスキージョウ",
+      "prefecture": 3,
+      "latitude": 39.821274979442975,
+      "longitude": 140.93628072668287,
+      "url": "https://www.qkamura.or.jp/ski/iwate/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "岩手高原スノーパーク",
+      "name_kana": "イワテコウゲンスノーパーク",
+      "prefecture": 3,
+      "latitude": 39.81387649719731,
+      "longitude": 140.96619804017325,
+      "url": "https://iwatekogen.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "奥州市越路スキー場",
+      "name_kana": "オクシュウエサジスキージョウ",
+      "prefecture": 3,
+      "latitude": 39.154679659923254,
+      "longitude": 141.3592602689916,
+      "url": "http://www.esashi-iwate.gr.jp/koeji/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "奥中山高原スキー場",
+      "name_kana": "オクナカヤマコウゲンスキージョウ",
+      "prefecture": 3,
+      "latitude": 40.08338419685109,
+      "longitude": 141.19045186901732,
+      "url": "http://www.okunakayamakogen.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "国見平スキー場",
+      "name_kana": "クニミダイラスキージョウ",
+      "prefecture": 3,
+      "latitude": 39.052280311258926,
+      "longitude": 140.96850326898868,
+      "url": "https://www.city.oshu.iwate.jp/site/kanko/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "村営くのへスキー場",
+      "name_kana": "ソンエイクノヘスキージョウ",
+      "prefecture": 3,
+      "latitude": 40.194447179395645,
+      "longitude": 141.40873042669332,
+      "url": "http://www.vill.kunohe.iwate.jp/docs/216.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "夏油高原スキー場",
+      "name_kana": "ゲトウコウゲンスキージョウ",
+      "prefecture": 3,
+      "latitude": 39.23665896345614,
+      "longitude": 140.90627445339516,
+      "url": "http://www.geto8.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "雫石スキー場",
+      "name_kana": "シズクイシスキージョウ",
+      "prefecture": 3,
+      "latitude": 39.77507172522453,
+      "longitude": 140.93015634017226,
+      "url": "http://www.princehotels.co.jp/ski/shizukuishi/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "町営湯田スキー場",
+      "name_kana": "チョウエイユダスキージョウ",
+      "prefecture": 3,
+      "latitude": 39.337590977454234,
+      "longitude": 140.78502359783297,
+      "url": "http://www.yamanoideyu.com/spot/article.php?p=79",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "八幡平市 田山スキー場",
+      "name_kana": "ハチマンタイシ タヤマスキージョウ",
+      "prefecture": 3,
+      "latitude": 40.13465237686847,
+      "longitude": 140.95181959785506,
+      "url": "http://skimt.s93.xrea.com/dangan/2009/20081230tayama/tayama.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "八幡平リゾート パノラマスキー場＆下倉スキー場",
+      "name_kana": "ハチマンタイリゾート パノラマスキージョウ シモクラスキージョウ",
+      "prefecture": 3,
+      "latitude": 39.896006140043276,
+      "longitude": 140.97526440327454,
+      "url": "http://www.hachimantai.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "花巻市鉛温泉スキー場",
+      "name_kana": "ハナマキシナマリオンセンスキージョウ",
+      "prefecture": 3,
+      "latitude": 39.46303427949157,
+      "longitude": 140.99336352667274,
+      "url": "https://www.city.hanamaki.iwate.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ひめかゆスキー場",
+      "name_kana": "ヒメカユスキージョウ",
+      "prefecture": 3,
+      "latitude": 39.11808055136246,
+      "longitude": 140.9374998978268,
+      "url": "http://www8.plala.or.jp/himekayu/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "平庭高原スキー場",
+      "name_kana": "ヒラニワコウゲンスキージョウ",
+      "prefecture": 3,
+      "latitude": 40.08289839696827,
+      "longitude": 141.50308345552645,
+      "url": "http://hiraniwa.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "泉ヶ岳スキー場",
+      "name_kana": "イズミガタケスキージョウ",
+      "prefecture": 4,
+      "latitude": 38.39098031950961,
+      "longitude": 140.72181472584256,
+      "url": "http://www.izumigatake.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "上野々スキー場",
+      "name_kana": "ウエノノスキージョウ",
+      "prefecture": 4,
+      "latitude": 38.73331907683729,
+      "longitude": 140.71242000000004,
+      "url": "http://uenono.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "オニコウベスキー場",
+      "name_kana": "オニコウベスキージョウ",
+      "prefecture": 4,
+      "latitude": 38.78689029999999,
+      "longitude": 140.63940490000002,
+      "url": "http://www.onikoube.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "スプリングバレー仙台泉スキー場",
+      "name_kana": "スプリングバレーセンダイイズミスキージョウ",
+      "prefecture": 4,
+      "latitude": 38.41877300000001,
+      "longitude": 140.72305645767233,
+      "url": "http://www.springvalley.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "みやぎ蔵王セントメリースキー場",
+      "name_kana": "ミヤギザオウセントメリースキージョウ",
+      "prefecture": 4,
+      "latitude": 38.218677,
+      "longitude": 140.52119000000002,
+      "url": "https://stmary-338.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "みやぎ蔵王えぼしリゾート",
+      "name_kana": "ミヤギザオウエボシリゾート",
+      "prefecture": 4,
+      "latitude": 38.1266811,
+      "longitude": 140.52874720000003,
+      "url": "http://www.eboshi.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "みやぎ蔵王七ヶ宿スキー場",
+      "name_kana": "ミヤギザオウシチカシュクスキージョウ",
+      "prefecture": 4,
+      "latitude": 37.999003,
+      "longitude": 140.36630600000004,
+      "url": "http://ski-shichikashuku.com/index.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "みやぎ蔵王白石スキー場",
+      "name_kana": "ミヤギザオウシロイシスキージョウ",
+      "prefecture": 4,
+      "latitude": 38.06841339309191,
+      "longitude": 140.51332514232766,
+      "url": "http://www.nposki.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "みやぎ蔵王スキー場 すみかわスノーパーク",
+      "name_kana": "ミヤギザオウスキージョウ スミカワスノーパーク",
+      "prefecture": 4,
+      "latitude": 38.13493627771896,
+      "longitude": 140.49485925767237,
+      "url": "http://www.zao-sumikawa.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "やくらいファミリースキー場",
+      "name_kana": "ヤクライファミリースキージョウ",
+      "prefecture": 4,
+      "latitude": 38.57365807576466,
+      "longitude": 140.71770084232764,
+      "url": "http://yakurai-garden.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "秋田八幡平スキー場",
+      "name_kana": "アキタハチマンタイスキージョウ",
+      "prefecture": 5,
+      "latitude": 39.978563622113896,
+      "longitude": 140.80118372668716,
+      "url": "http://www.akihachi.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "森吉山阿仁スキー場",
+      "name_kana": "モリヨシヤマアニスキージョウ",
+      "prefecture": 5,
+      "latitude": 39.95487287942562,
+      "longitude": 140.4909001266865,
+      "url": "http://www.aniski.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "稲川スキー場",
+      "name_kana": "イナカワスキージョウ",
+      "prefecture": 5,
+      "latitude": 39.166952297696675,
+      "longitude": 140.54189072666478,
+      "url": "http://www.city-yuzawa.jp/shisetsu016/493.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ジュネス栗駒スキー場",
+      "name_kana": "ジュネスクリコマスキージョウ",
+      "prefecture": 5,
+      "latitude": 39.158968398642074,
+      "longitude": 140.72622229782814,
+      "url": "http://www.jeunesse-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "水晶山スキー場",
+      "name_kana": "スイショウヤマスキージョウ",
+      "prefecture": 5,
+      "latitude": 40.177388571525746,
+      "longitude": 140.76385376901976,
+      "url": "http://www.ink.or.jp/~mineland/ski/newpage3.htm",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "太平山スキー場 オーパス",
+      "name_kana": "タイヘイザンスキージョウ オーパス",
+      "prefecture": 5,
+      "latitude": 39.78739949085354,
+      "longitude": 140.2197059978453,
+      "url": "http://www.theboon.net/opas/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "たざわ湖スキー場",
+      "name_kana": "タザワコスキージョウ",
+      "prefecture": 5,
+      "latitude": 39.76236666864607,
+      "longitude": 140.7707130978447,
+      "url": "https://www.tazawako-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "大仙市営 大台スキー場",
+      "name_kana": "ダイセンシエイ オオダイスキージョウ",
+      "prefecture": 5,
+      "latitude": 39.519188808530615,
+      "longitude": 140.6552194555108,
+      "url": "https://ohdai.omagari-sc.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "大仙市営 大曲ファミリースキー場",
+      "name_kana": "ダイセンシエイ オオマガリファミリースキージョウ",
+      "prefecture": 5,
+      "latitude": 39.44031039375681,
+      "longitude": 140.43318145550856,
+      "url": "https://familyski.omagari-sc.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "大仙市営 協和スキー場",
+      "name_kana": "ダイセンシエイ キョウワスキージョウ",
+      "prefecture": 5,
+      "latitude": 39.68083312240839,
+      "longitude": 140.39303434016958,
+      "url": "http://kyowasnow.net/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "鳥海高原矢島スキー場",
+      "name_kana": "チョウカイコウゲンヤシマスキージョウ",
+      "prefecture": 5,
+      "latitude": 39.190327648739085,
+      "longitude": 140.0931387266654,
+      "url": "http://www.city.yurihonjo.lg.jp/yashima/yashimaski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "花輪スキー場",
+      "name_kana": "ハナワスキージョウ",
+      "prefecture": 5,
+      "latitude": 40.18799017158567,
+      "longitude": 140.8226794690201,
+      "url": "http://www.alpas.jp/facility/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "藤里町営スキー場",
+      "name_kana": "フジサトチョウエイスキージョウ",
+      "prefecture": 5,
+      "latitude": 40.321358159336896,
+      "longitude": 140.29230845553312,
+      "url": "https://www.town.fujisato.akita.jp/kankou/598",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "横手市天下森スキー場",
+      "name_kana": "ヨコテシテンガモリスキージョウ",
+      "prefecture": 5,
+      "latitude": 39.162178579534995,
+      "longitude": 140.62150659782816,
+      "url": "https://www.tengamori.jp/ski",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "Asahi自然観 SNOW PARK",
+      "name_kana": "アサヒシゼンカン スノーパーク",
+      "prefecture": 6,
+      "latitude": 38.305013079670715,
+      "longitude": 140.05848226896848,
+      "url": "http://www.shizenkan.jp/snowpark.php",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "横根スキー場",
+      "name_kana": "ヨコネスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.070816487177844,
+      "longitude": 139.73046342663514,
+      "url": "http://www.siroimori.co.jp/yokone-ski/index.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "小野川温泉スキー場",
+      "name_kana": "オノガワオンセンスキージョウ",
+      "prefecture": 6,
+      "latitude": 37.877767642726525,
+      "longitude": 140.05768399779362,
+      "url": "http://npo-onogawa.org/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "月山スキー場",
+      "name_kana": "ガッサンスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.51885779141478,
+      "longitude": 140.00657504240237,
+      "url": "http://mtgassan.gassankanko.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "櫛引たらのきだいスキー場",
+      "name_kana": "クシビキタラノキダイラスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.65248585828364,
+      "longitude": 139.91271829781425,
+      "url": "https://m.facebook.com/taranokidai/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "黒伏高原スノーパーク ジャングル・ジャングル",
+      "name_kana": "スノーパーク ジャングル・ジャングル",
+      "prefecture": 6,
+      "latitude": 38.43598468358064,
+      "longitude": 140.54349316897213,
+      "url": "http://jxj.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "グリーンバレー神室スキー場",
+      "name_kana": "グリーンバレーカムロスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.91650713647162,
+      "longitude": 140.39424670153124,
+      "url": "https://www.town.kaneyama.yamagata.jp/machinami_koryu/greenvalleykamuro_kamuroskijo/index.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "蔵王温泉スキー場",
+      "name_kana": "ザオウオウンセンスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.17054743426552,
+      "longitude": 140.4017104508339,
+      "url": "http://www.zao-ski.or.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "蔵王猿倉スキー場",
+      "name_kana": "ザオウサルクラスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.12828361932911,
+      "longitude": 140.37436569780022,
+      "url": "http://www.zao-sarukura.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "蔵王ライザワールド",
+      "name_kana": "ザオウライザワールド",
+      "prefecture": 6,
+      "latitude": 38.124033060484216,
+      "longitude": 140.40537570000004,
+      "url": "http://www.zaoliza.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白鷹町営スキー場",
+      "name_kana": "シラタカチョウエイスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.235869508705,
+      "longitude": 140.1545832,
+      "url": "http://www.town.shirataka.lg.jp/1260.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "新庄市民スキー場",
+      "name_kana": "シンジョウシミンスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.79670800000002,
+      "longitude": 140.35581508465523,
+      "url": "https://www.shinjo-taikyo.com/shiminskijyo",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "手ノ子スキー場",
+      "name_kana": "テノコスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.008247199999985,
+      "longitude": 139.97078634232764,
+      "url": "",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "天元台高原",
+      "name_kana": "テンゲンダイコウゲン",
+      "prefecture": 6,
+      "latitude": 37.77533608027376,
+      "longitude": 140.13390950002363,
+      "url": "http://www.tengendai.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "天童高原スキー場",
+      "name_kana": "テンドウコウゲンスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.347714685195854,
+      "longitude": 140.48249694232763,
+      "url": "http://tendokogen.or.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "西川町民スキー場",
+      "name_kana": "ニシカワチョウミンスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.43857519274237,
+      "longitude": 140.12612539999998,
+      "url": "http://mtmazawa.gassankanko.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "羽黒山スキー場",
+      "name_kana": "ハグロヤマスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.692757900000004,
+      "longitude": 139.98479990002363,
+      "url": "http://www.qkamura.or.jp/haguro/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "花笠高原スキー場",
+      "name_kana": "ハナカサコウゲンスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.53678263751167,
+      "longitude": 140.5087916,
+      "url": "http://www.city.obanazawa.yamagata.jp/9973.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "松山スキー場",
+      "name_kana": "マツヤマスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.85964043512528,
+      "longitude": 139.98076944232767,
+      "url": "http://matuyama-net.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "やまがた 赤倉温泉スキー場",
+      "name_kana": "ヤマガタ アカクラオンセンスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.705430044949864,
+      "longitude": 140.5442778,
+      "url": "https://mogami-portal.net/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "湯殿山スキー場",
+      "name_kana": "ユドノサンスキージョウ",
+      "prefecture": 6,
+      "latitude": 38.57221299999999,
+      "longitude": 139.94199254232763,
+      "url": "http://www.yudonosan.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "米沢スキー場",
+      "name_kana": "ヨネザワスキージョウ",
+      "prefecture": 6,
+      "latitude": 37.86464696499083,
+      "longitude": 40.23185790001182,
+      "url": "http://www.yonezawa-ski.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "会津高原たかつえスキー場",
+      "name_kana": "アイヅコウゲンタカエツスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.109918279890735,
+      "longitude": 139.61636995519837,
+      "url": "http://takatsue.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "会津高原高畑スキー場",
+      "name_kana": "アイヅコウゲンタカハタスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.10078147989249,
+      "longitude": 139.4493177975258,
+      "url": "http://www.takahata-ski.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "会津高原だいくらスキー場",
+      "name_kana": "アイヅコウゲンダイクラスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.18138083193091,
+      "longitude": 139.63720331101968,
+      "url": "http://www.daikura.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "会津高原南郷スキー場",
+      "name_kana": "アイヅコウゲンナンゴウスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.2668468181254,
+      "longitude": 139.54576236869437,
+      "url": "http://www.nango-ski.com/index.php",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "あだたら高原スキー場",
+      "name_kana": "アダタラコウゲンスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.62253197979219,
+      "longitude": 140.32441626870474,
+      "url": "http://www.adatara-resort.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "猪苗代スキー場[中央×ミネロ]",
+      "name_kana": "イナワシロスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.575258776630115,
+      "longitude": 140.09467965521182,
+      "url": "http://www.inawashiro-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "猪苗代リゾートスキー場",
+      "name_kana": "イナワシロリゾートスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.57844664462843,
+      "longitude": 140.0615682470196,
+      "url": "https://inawashiroresort.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "裏磐梯スキー場",
+      "name_kana": "ウラバンダイスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.63200087110886,
+      "longitude": 140.06763534492794,
+      "url": "http://www.urabandai-ski.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "尾瀬檜枝岐温泉スキー場",
+      "name_kana": "オゼヒエノマタオンセンスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.03288287990616,
+      "longitude": 139.3970877263601,
+      "url": "http://www.oze-info.jp/facility/skiing/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "三ノ倉スキー場",
+      "name_kana": "サンノクラスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.74930171325899,
+      "longitude": 139.86734092702804,
+      "url": "https://www.city.kitakata.fukushima.jp/soshiki/sangyo-a/17981.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "グランディ羽鳥湖スキーリゾート",
+      "name_kana": "グランディハトリコスキーリゾート",
+      "prefecture": 7,
+      "latitude": 37.217509067583656,
+      "longitude": 140.02791076869303,
+      "url": "http://hatoriko.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "グランデコスノーリゾート",
+      "name_kana": "グランデコスノーリゾート",
+      "prefecture": 7,
+      "latitude": 37.695501690356814,
+      "longitude": 140.13270189754292,
+      "url": "http://www.grandeco.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "スキーリゾート天栄",
+      "name_kana": "スキーリゾートテンエイ",
+      "prefecture": 7,
+      "latitude": 37.267756665378634,
+      "longitude": 139.98078336869443,
+      "url": "http://resoten.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "只見スキー場",
+      "name_kana": "タダミスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.34586724162718,
+      "longitude": 139.31095845176358,
+      "url": "http://tadamikousya.sakura.ne.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "二本松塩沢スキー場",
+      "name_kana": "ニホンマツシオザワスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.64042407978892,
+      "longitude": 140.3309361687052,
+      "url": "http://tohoku-safaripark.co.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "沼尻スキー場",
+      "name_kana": "ヌマジリスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.623064075213506,
+      "longitude": 140.22766111103235,
+      "url": "http://www.numajiri-ski.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ファミリースノーパーク ばんだい×2",
+      "name_kana": "ファミリースノーパーク バンダイ",
+      "prefecture": 7,
+      "latitude": 37.59273988214966,
+      "longitude": 140.11885375521226,
+      "url": "http://www.bandai-bandai.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "フェアリーランドかねやまスキー場",
+      "name_kana": "フェアリーランドカネヤマスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.44473796177283,
+      "longitude": 139.5351142975358,
+      "url": "http://www.aizukaneyama.co.jp/ski/skitop.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "星野リゾート アルツ磐梯",
+      "name_kana": "ホシノリゾート アルツバンダイ",
+      "prefecture": 7,
+      "latitude": 37.58578918176831,
+      "longitude": 140.03361649753992,
+      "url": "https://www.alts.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "星野リゾート 猫魔スキー場",
+      "name_kana": "ホシノリゾート ノコマスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.627197974267645,
+      "longitude": 140.03798772637708,
+      "url": "https://www.nekoma.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "箕輪スキー場",
+      "name_kana": "ミノワスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.65243875079234,
+      "longitude": 140.25309579650192,
+      "url": "http://www.ski-minowa.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "横向温泉スキー場",
+      "name_kana": "ヨコムキオンセンスキージョウ",
+      "prefecture": 7,
+      "latitude": 37.657331979785674,
+      "longitude": 140.26012529754186,
+      "url": "https://www.tif.ne.jp/jp/spot/spot_disp.php?id=3746",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "リステルスキーファンタジア",
+      "name_kana": "リステルスキーファンタジア",
+      "prefecture": 7,
+      "latitude": 37.54319750030491,
+      "longitude": 140.14963426870227,
+      "url": "http://www.listel-inawashiro.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "エーデルワイススキーリゾート",
+      "name_kana": "エーデルワイススキーリゾート",
+      "prefecture": 9,
+      "latitude": 36.92511173365244,
+      "longitude": 139.74899592635703,
+      "url": "http://edelsnow.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "那須温泉ファミリースキー場",
+      "name_kana": "ナスオンセンファミリースキージョウ",
+      "prefecture": 9,
+      "latitude": 37.118802134912315,
+      "longitude": 139.98288109752633,
+      "url": "http://familyskiresort-nasu.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "日光湯元温泉スキー場",
+      "name_kana": "ニッコウヨモトオンセンスキージョウ",
+      "prefecture": 9,
+      "latitude": 36.803524170473395,
+      "longitude": 139.41951366868128,
+      "url": "http://www.nikkoyumoto-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ハンターマウンテン塩原",
+      "name_kana": "ハンターマウンテンシオバラ",
+      "prefecture": 9,
+      "latitude": 36.938136379925176,
+      "longitude": 139.7539315263575,
+      "url": "http://www.hunter.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "マウントジーンズ那須",
+      "name_kana": "マウントジーンズナス",
+      "prefecture": 9,
+      "latitude": 37.12792942589633,
+      "longitude": 140.0152902686905,
+      "url": "https://www.mtjeans.com/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "赤城山 第一スキー場",
+      "name_kana": "アカギサン ダイイチスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.5458400800066,
+      "longitude": 139.18397932634636,
+      "url": "http://akagi-yama.jp/archives/8650",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "奥利根スノーパーク",
+      "name_kana": "オクトネスノーパーク",
+      "prefecture": 10,
+      "latitude": 36.79903238893012,
+      "longitude": 139.00921899751728,
+      "url": "https://okutone.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "オグナほたかスキー場",
+      "name_kana": "オグナホタカスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.78078617302808,
+      "longitude": 139.1679829263529,
+      "url": "http://ognahotaka.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "鹿沢スノーエリア",
+      "name_kana": "カザワスニーエリア",
+      "prefecture": 10,
+      "latitude": 36.471367844675946,
+      "longitude": 138.4296238226381,
+      "url": "http://www.kazawa.com/snow/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "かたしな高原スキー場",
+      "name_kana": "カタシナコウゲンスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.81119542045072,
+      "longitude": 139.22980529666376,
+      "url": "https://www.katashinakogen.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "軽井沢スノーパーク",
+      "name_kana": "カルイザワスノーパーク",
+      "prefecture": 10,
+      "latitude": 36.423110980032845,
+      "longitude": 138.62702199750663,
+      "url": "https://www.presidentresort.jp/hotels/snowpark.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "川場スキー場",
+      "name_kana": "カワバスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.76890107996002,
+      "longitude": 139.10807042635253,
+      "url": "http://www.kawaba.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "草津温泉スキー場",
+      "name_kana": "クサツオンセンスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.62910987998907,
+      "longitude": 138.58577052634865,
+      "url": "https://www.932-onsen.com/winter/index",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "スノーパーク尾瀬戸倉",
+      "name_kana": "スノーパークオゼトクラ",
+      "prefecture": 10,
+      "latitude": 36.85110617994295,
+      "longitude": 139.23884142635484,
+      "url": "http://www.ozetokura.co.jp/snowpark/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "谷川岳天神平スキー場",
+      "name_kana": "タニガワダケテンジンダイラスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.81794737994975,
+      "longitude": 138.948243826354,
+      "url": "http://www.tanigawadake-rw.com/gelande/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "たんばらスキーパーク",
+      "name_kana": "タンバラスキーパーク",
+      "prefecture": 10,
+      "latitude": 36.77845947995785,
+      "longitude": 139.07273165518902,
+      "url": "https://www.tambara.co.jp/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ノルン水上スキー場",
+      "name_kana": "ノルンミナカミスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.74335276903421,
+      "longitude": 138.94221788402407,
+      "url": "https://www.norn.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "パルコール嬬恋スキーリゾート",
+      "name_kana": "パルコールツマコイスキーリゾート",
+      "prefecture": 10,
+      "latitude": 36.55577039823739,
+      "longitude": 138.4639699686743,
+      "url": "https://tsumagoiskiresort.life/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "宝台樹スキー場",
+      "name_kana": "ホウダイギスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.83726809981072,
+      "longitude": 139.07845606576748,
+      "url": "http://hodaigi.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ホテルヴィレッジ森のスキー場",
+      "name_kana": "ホテルヴィレッジモリノスキー場",
+      "prefecture": 10,
+      "latitude": 36.62704148099871,
+      "longitude": 138.60683049210286,
+      "url": "https://www.hotelvillage.co.jp/enjoy/outside.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ホワイトバレースキー場",
+      "name_kana": "ホワイトバレースキージョウ",
+      "prefecture": 10,
+      "latitude": 36.79480887145275,
+      "longitude": 138.95732306868095,
+      "url": "https://www.whitevalley.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ホワイトワールド尾瀬岩鞍",
+      "name_kana": "ホワイトワールドオゼイワクラ",
+      "prefecture": 10,
+      "latitude": 36.814989390717,
+      "longitude": 139.22004772635393,
+      "url": "http://www.oze-iwakura.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "丸沼高原スキー場",
+      "name_kana": "マルヌマコウゲンスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.81399566929638,
+      "longitude": 139.34376572635387,
+      "url": "http://www.marunuma.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "万座温泉スキー場",
+      "name_kana": "",
+      "prefecture": 10,
+      "latitude": 36.63578800789106,
+      "longitude": 138.50625338402108,
+      "url": "https://www.princehotels.co.jp/ski/manza/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "水上高原藤原スキー場",
+      "name_kana": "",
+      "prefecture": 10,
+      "latitude": 36.850905735553305,
+      "longitude": 139.0690191840272,
+      "url": "http://fujiwaraski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "水上高原スキーリゾート",
+      "name_kana": "ミナカミコウゲンスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.85542176463731,
+      "longitude": 139.07597359751884,
+      "url": "https://www.minakami-ski.jp/index.php",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "みなかみ町営赤沢スキー場",
+      "name_kana": "ミナカミチョウエイアカザワスキージョウ",
+      "prefecture": 10,
+      "latitude": 36.733012381544285,
+      "longitude": 138.8300887263516,
+      "url": "http://www.akasawa.biz/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "赤倉温泉スキー場",
+      "name_kana": "アカクラオンセンスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.89089239922608,
+      "longitude": 138.17671772635597,
+      "url": "http://www.akakura-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "赤倉観光リゾートスキー場",
+      "name_kana": "アカクラカンコウリゾートスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.886902523413234,
+      "longitude": 138.1775915975198,
+      "url": "http://www.akr-ski.com/s",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "池の平温泉スキー場",
+      "name_kana": "イケノタイラオンセンスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.87254667993869,
+      "longitude": 138.17191845519167,
+      "url": "http://www.ikenotaira.info/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "石打花岡スキー場",
+      "name_kana": "イシウチハナオカスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.990722818865756,
+      "longitude": 138.79921652635892,
+      "url": "http://hanaoka.ishiuchi.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "石打丸山スキー場",
+      "name_kana": "イシウチマルヤマスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.97936052142805,
+      "longitude": 138.80259409752236,
+      "url": "http://www.ishiuchi.or.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "五日町スキー場",
+      "name_kana": "イツカマチスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.12143609879689,
+      "longitude": 138.8994481840349,
+      "url": "http://www.itsukamachi.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "糸魚川シーサイドバレースキー場",
+      "name_kana": "イトイガワシーサイドバレースキージョウ",
+      "prefecture": 15,
+      "latitude": 36.94107805498989,
+      "longitude": 137.89925965519353,
+      "url": "http://www.seasidevalley.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "岩原スキー場",
+      "name_kana": "イワッパラスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.93817320721433,
+      "longitude": 138.84059871650874,
+      "url": "http://www.iwa-ppara.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "大湯温泉スキー場",
+      "name_kana": "オオユオンセンスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.19295221978848,
+      "longitude": 139.08254135520073,
+      "url": "http://www.oyu-uonuma.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "奥只見丸山スキー場",
+      "name_kana": "オクタダミマルヤマスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.16210592975382,
+      "longitude": 139.24594456869144,
+      "url": "http://okutadami.co.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "かぐらスキー場",
+      "name_kana": "カグラスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.846438832821384,
+      "longitude": 138.77586153136141,
+      "url": "https://www.princehotels.co.jp/ski/kagura/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "金谷山スキー場",
+      "name_kana": "カナタニヤマスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.10408284995376,
+      "longitude": 138.2249525686898,
+      "url": "http://www.niigata-snow.jp/user/ski_top/skiid/42/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "神立スノーリゾート",
+      "name_kana": "カンダツスノーリソート",
+      "prefecture": 15,
+      "latitude": 36.91110005836854,
+      "longitude": 138.81283315519275,
+      "url": "http://www.kandatsu.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "GALA湯沢スキー場",
+      "name_kana": "ガーラユザワスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.9507319799227,
+      "longitude": 138.79952926868543,
+      "url": "https://gala.co.jp/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "キューピットバレイ",
+      "name_kana": "キューピットバレイ",
+      "prefecture": 15,
+      "latitude": 37.05505426547349,
+      "longitude": 138.48452093032685,
+      "url": "https://www.yukidaruma-kogen.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "休暇村妙高 ルンルンスキー場",
+      "name_kana": "キュウカムラミョウコウ ルンルンスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.911778358291954,
+      "longitude": 138.16863259752054,
+      "url": "http://www.qkamura.or.jp/myoukou/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "小出スキー場",
+      "name_kana": "コイデスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.228178437220414,
+      "longitude": 138.95526026869337,
+      "url": "https://www.sp-koide.org/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "古志高原スキー場",
+      "name_kana": "コシコウゲンスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.31824444741661,
+      "longitude": 138.88727799753212,
+      "url": "http://koshikogen.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "シャトーテル塩沢",
+      "name_kana": "シャトーテルシオサワ",
+      "prefecture": 15,
+      "latitude": 37.050841372070934,
+      "longitude": 138.83846014675785,
+      "url": "http://www.chateau-shiozawa.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "シャルマン火打スキー場",
+      "name_kana": "シャルマンヒウチスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.99940461690756,
+      "longitude": 138.06921939752291,
+      "url": "https://charmant-hiuchi.jp/",
+      "live_camera_url": "https://www.youtube.com/watch?v=y6CQ-wBqJ4s&feature=emb_err_woyt"
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "上越国際スキー場",
+      "name_kana": "ジョウエツコクサイスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.02912178595542,
+      "longitude": 138.82818840890235,
+      "url": "http://www.jkokusai.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "須原スキー場",
+      "name_kana": "スハラスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.322697093972685,
+      "longitude": 139.01618413958232,
+      "url": "http://www.suhara-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "関温泉スキー場",
+      "name_kana": "セキオンセンスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.90596940091796,
+      "longitude": 138.16085145519253,
+      "url": "http://www.sekionsen.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "胎内スキー場",
+      "name_kana": "タイナイスキージョウ",
+      "prefecture": 15,
+      "latitude": 38.01671097972078,
+      "longitude": 139.50231326871616,
+      "url": "http://tainairesort.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "高柳ガルルのスキー場",
+      "name_kana": "タカヤナギガルルノスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.222594209713236,
+      "longitude": 138.63723705520167,
+      "url": "https://www.garuru-kururu.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "とちおファミリースキー場",
+      "name_kana": "トチオファミリースキージョウ",
+      "prefecture": 15,
+      "latitude": 37.43702012395997,
+      "longitude": 139.03924372886124,
+      "url": "http://www.tochio.net/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "苗場スキー場",
+      "name_kana": "ナエバスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.79163587995524,
+      "longitude": 138.77967268402554,
+      "url": "http://www.princehotels.co.jp/ski/naeba/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "なかさと清津スキー場",
+      "name_kana": "ナカサトキヨツスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.02231941399532,
+      "longitude": 138.72770655519605,
+      "url": "http://www.tokamachishikankou.jp/sports/ski/nakasatokiyotsu/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "中里スノーウッドスキー場",
+      "name_kana": "ナカサトスノーウッドスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.90526217993193,
+      "longitude": 138.8502124975203,
+      "url": "http://www.angel-g.co.jp/snowinformation/ski_guide/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "長岡市営スキー場",
+      "name_kana": "ナガオカシエイスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.41529687983126,
+      "longitude": 138.89127652637097,
+      "url": "http://www.shiei-ski.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "NASPAスキーガーデン",
+      "name_kana": "ナスパスキーガーデン",
+      "prefecture": 15,
+      "latitude": 36.92389557992809,
+      "longitude": 138.80633115519313,
+      "url": "http://www.naspa.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ニュー・グリーンピア津南スキー場",
+      "name_kana": "ニュー・グリーンピアツナンスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.960103913169554,
+      "longitude": 138.68694288781708,
+      "url": "https://new-greenpia.com/category/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ニノックススノーパーク",
+      "name_kana": "ニノックススノーパーク",
+      "prefecture": 15,
+      "latitude": 37.92681637973682,
+      "longitude": 139.46790259754962,
+      "url": "https://www.ninox.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "八海山麓スキー場",
+      "name_kana": "ハッカイサンロクスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.15460978183351,
+      "longitude": 138.97402562636347,
+      "url": "http://hakkai36.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "舞子スノーリゾート",
+      "name_kana": "マイコスノーリゾート",
+      "prefecture": 15,
+      "latitude": 36.982362050333286,
+      "longitude": 138.8244897686864,
+      "url": "https://www.maiko-resort.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "Mt.グランビュースキーショウ",
+      "name_kana": "マウントグランビュースキーショウ",
+      "prefecture": 15,
+      "latitude": 36.999962511479794,
+      "longitude": 138.80522942635915,
+      "url": "https://www.niigata-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "松代ファミリースキー場",
+      "name_kana": "マツシロファミリースキージョウ",
+      "prefecture": 15,
+      "latitude": 37.126624879887416,
+      "longitude": 138.60558732636264,
+      "url": "http://www.tokamachishikankou.jp/matudai/cgi-bin/ski/index.cgi",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "松之山温泉スキー場",
+      "name_kana": "マツノヤマオンセンスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.05221536753097,
+      "longitude": 138.59757325519686,
+      "url": "http://www.matsunoyama-ski.com/sp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "妙高スキーパーク",
+      "name_kana": "ミョウコウスキーパーク",
+      "prefecture": 15,
+      "latitude": 36.9104377369563,
+      "longitude": 138.17186245519287,
+      "url": "http://www.myoko-skipark.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "妙高杉ノ原スキー場",
+      "name_kana": "ミョウコウスギノハラスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.856905310887285,
+      "longitude": 138.15506999751892,
+      "url": "http://www.princehotels.co.jp/ski/myoko/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "三川・温泉スキー場",
+      "name_kana": "ミカワ オンセンスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.720686566312686,
+      "longitude": 139.39337259754353,
+      "url": "https://www.mikawaonsenski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ムイカスノーリゾート",
+      "name_kana": "ムイカスノーリゾート",
+      "prefecture": 15,
+      "latitude": 37.07142124027295,
+      "longitude": 138.84602492636125,
+      "url": "http://www.muikamachi.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "六日町八海山スキー場",
+      "name_kana": "ムイカマチハッカイサンスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.107971048635285,
+      "longitude": 138.97778732636226,
+      "url": "http://www.princehotels.co.jp/ski/hakkaisan/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "村上市営ぶどうスキー場",
+      "name_kana": "ムラカミシエイブドウスキージョウ",
+      "prefecture": 15,
+      "latitude": 38.389931570367786,
+      "longitude": 139.55455136872703,
+      "url": "http://www.city.murakami.niigata.jp/asahi/budoh/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "薬師スキー場",
+      "name_kana": "ヤクシスキージョウ",
+      "prefecture": 15,
+      "latitude": 37.23489530553013,
+      "longitude": 138.9913630263659,
+      "url": "http://www.yakushi-ski.com/sp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "一本杉スキー場",
+      "name_kana": "イッポンスギスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.936509555505026,
+      "longitude": 138.80691799752108,
+      "url": "https://www.ipponsugi.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "湯沢高原スキー場",
+      "name_kana": "ユザワコウゲンスキージョウ",
+      "prefecture": 15,
+      "latitude": 36.939607280853885,
+      "longitude": 138.80314549752126,
+      "url": "http://www.yuzawakogen.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "湯沢中里スノーリゾート",
+      "name_kana": "ユザワナカサトスノーリゾート",
+      "prefecture": 15,
+      "latitude": 36.91415973611834,
+      "longitude": 138.84902679752062,
+      "url": "https://www.yuzawa-nakazato.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "湯沢パークスキー場",
+      "name_kana": "ユザワパークスキーショウ",
+      "prefecture": 15,
+      "latitude": 36.92489287992793,
+      "longitude": 138.85968972635695,
+      "url": "http://www.park-resort.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ロッテアライリゾート",
+      "name_kana": "ロッテアライリゾート",
+      "prefecture": 15,
+      "latitude": 36.99092813598028,
+      "longitude": 138.18141695012218,
+      "url": "https://www.lottehotel.com/arai-resort/ja/ski-webzine.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "わかぶな高原スキー場",
+      "name_kana": "ワカブナコウゲンスキージョウ",
+      "prefecture": 15,
+      "latitude": 38.05857682275962,
+      "longitude": 139.62875521871734,
+      "url": "http://www.wakabuna.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "となみ夢の平スキー場",
+      "name_kana": "トナミユメノタイラスキージョウ",
+      "postal_code": "939-1428",
+      "prefecture": 16,
+      "address": "砺波市五谷字源谷22番地",
+      "latitude": 36.58618736515974,
+      "longitude": 137.02221472634733,
+      "url": "http://www1.tst.ne.jp/yume-ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "立山山麓スキー場",
+      "name_kana": "タテヤマサンロクスキージョウ",
+      "postal_code": "930-1454",
+      "prefecture": 16,
+      "address": "富山市原55番地",
+      "latitude": 36.574894,
+      "longitude": 137.417143,
+      "url": "http://www.tateyama36.co.jp/",
+      "live_camera_url": "http://www.tateyama36.co.jp/camera/camera4.html"
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "たいらスキー場",
+      "name_kana": "タイラスキージョウ",
+      "postal_code": "939-1927",
+      "prefecture": 16,
+      "address": "南砺市梨谷",
+      "latitude": 36.44200137922297,
+      "longitude": 136.927028586942,
+      "url": "http://www1.tst.ne.jp/skitaira/",
+      "live_camera_url": "http://live.city.nanto.toyama.jp/livecam/index.jsp"
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "IOX‐AROSA",
+      "name_kana": "イオックス アローザ",
+      "postal_code": "939-1681",
+      "prefecture": 16,
+      "address": "南砺市才川七字ススケ原115",
+      "latitude": 36.51512338001315,
+      "longitude": 136.82216719750934,
+      "url": "https://iox-arosa.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "牛岳温泉スキー場",
+      "name_kana": "ウシダケオンセンスキージョウ",
+      "postal_code": "930-2115",
+      "prefecture": 16,
+      "address": "富山市山田小谷",
+      "latitude": 36.573084896302234,
+      "longitude": 137.05705182634702,
+      "url": "https://ushidake.com/ski/",
+      "live_camera_url": "http://www.knei.jp/~ushicam/"
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "宇奈月温泉スキー場",
+      "name_kana": "ウナヅキオンセンスキージョウ",
+      "postal_code": "938-0282",
+      "prefecture": 16,
+      "address": "黒部市宇奈月温泉5738",
+      "latitude": 36.81225392190289,
+      "longitude": 137.58455693851224,
+      "url": "https://www.unazuki-snowpark.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "タカンボースキー場",
+      "name_kana": "タカンボースキージョウ",
+      "postal_code": "939-1977",
+      "prefecture": 16,
+      "address": "南砺市西赤尾町1767",
+      "latitude": 36.375649938465536,
+      "longitude": 136.8625855577987,
+      "url": "http://www.gokayama-kankou.com/contents2.html",
+      "live_camera_url": "http://live.city.nanto.toyama.jp/livecam/index02.jsp"
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "大倉岳高原スキー場",
+      "name_kana": "オオクラダケコウゲンスキージョウ",
+      "prefecture": 17,
+      "latitude": 36.283731980063195,
+      "longitude": 136.53804372633905,
+      "url": "https://komatsu-ccf.com/navi/?mode=office&office_no=2&sub_mode=plant&func=info&plant_no=2",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "金沢市営医王山スキー場",
+      "name_kana": "カナザワシエイイオウゼンスキージョウ",
+      "prefecture": 17,
+      "latitude": 36.52729575860398,
+      "longitude": 136.75164176867358,
+      "url": "https://www.kanazawa-sports.jp/use/search/546/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "七尾コロサスキー場",
+      "name_kana": "ナナオコロサスキージョウ",
+      "prefecture": 17,
+      "latitude": 36.97565712226311,
+      "longitude": 136.96115042635842,
+      "url": "http://www.city.nanao.ishikawa.jp/yamabiko/home/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白山一里野温泉スキー場",
+      "name_kana": "ハクサンイチリノオンセンスキージョウ",
+      "prefecture": 17,
+      "latitude": 36.26833543098434,
+      "longitude": 136.71499813983021,
+      "url": "http://sam-hakusan.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白山セイモアスキー場",
+      "name_kana": "ハクサンセイモアスキージョウ",
+      "prefecture": 17,
+      "latitude": 36.34708652149932,
+      "longitude": 136.67778315517702,
+      "url": "http://sam-hakusan.com/seymour/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "今庄365スキー場",
+      "name_kana": "イマジョウ365スキージョウ",
+      "prefecture": 18,
+      "latitude": 35.7232686801896,
+      "longitude": 136.14838909748732,
+      "url": "",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "九頭竜スキー場",
+      "name_kana": "クズリュウスキージョウs",
+      "prefecture": 18,
+      "latitude": 35.898315662128624,
+      "longitude": 136.65459675516448,
+      "url": "https://www.kuzuryu-skiland.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "新保ファミリースキー場",
+      "name_kana": "シンボファミリースキージョウ",
+      "prefecture": 18,
+      "latitude": 35.855773675816685,
+      "longitude": 136.30778072632725,
+      "url": "http://www.ski.ikeda-kibou.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "スキージャム勝山",
+      "name_kana": "スキージャムカツヤマ",
+      "prefecture": 18,
+      "latitude": 36.0733506235718,
+      "longitude": 136.55557705516938,
+      "url": "https://www.skijam.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "福井和泉スキー場",
+      "name_kana": "フクイイズミスキージョウ",
+      "prefecture": 18,
+      "latitude": 35.939661253035474,
+      "longitude": 136.69225165516556,
+      "url": "http://www.fukuiizumi.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "六呂師高原スキーパーク",
+      "name_kana": "ロクロシコウゲンスキージョウ",
+      "prefecture": 18,
+      "latitude": 36.02174518012123,
+      "longitude": 136.57619908400397,
+      "url": "http://www.city.ono.fukui.jp/kanko/kanko-joho/guide/rokuroshi-ski-park.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "カムイみさかスキー場",
+      "name_kana": "カムイミサカスキージョウ",
+      "prefecture": 19,
+      "latitude": 35.582375156862824,
+      "longitude": 138.7532454551559,
+      "url": "http://misaka.kamuisp.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "サンメドウズ清里スキー場",
+      "name_kana": "サンメドウズキヨサトスキージョウ",
+      "prefecture": 19,
+      "latitude": 35.94754549455818,
+      "longitude": 138.41445509749357,
+      "url": "http://www.sunmeadows.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ふじてんスノーリゾート",
+      "name_kana": "フジテンスノーリゾート",
+      "prefecture": 19,
+      "latitude": 35.4420510802558,
+      "longitude": 138.6879341974796,
+      "url": "https://www.fujiten.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "佐久スキーガーデン「パラダ」南パラダスキー場",
+      "name_kana": "サクスキーガーデン パラダ ミナミパラダスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.27864072718703,
+      "longitude": 138.51304526866662,
+      "url": "https://www.saku-parada.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "あさひプライムスキー場",
+      "name_kana": "アサヒプライムスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.11572558010031,
+      "longitude": 137.8345362705151,
+      "url": "http://asahivalley.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "アサマ2000パーク",
+      "name_kana": "アサマ2000パーク",
+      "prefecture": 20,
+      "latitude": 36.409170714590665,
+      "longitude": 138.46915956867016,
+      "url": "http://www.asama2000.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "飯綱高原スキー場",
+      "name_kana": "イイズナコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.71720558016457,
+      "longitude": 138.1399074551873,
+      "url": "http://www.iizuna-kougen.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "いいづなリゾートスキー場",
+      "name_kana": "イイヅナリゾートスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.737554577881674,
+      "longitude": 138.17067826867947,
+      "url": "http://iizunaresort.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "池の平スノーパーク",
+      "name_kana": "イケノタイラスノーパーク",
+      "prefecture": 20,
+      "latitude": 36.10921404787629,
+      "longitude": 138.24467119749795,
+      "url": "http://hotel.ikenotaira-resort.co.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "エイブル白馬五竜",
+      "name_kana": "エイブルハクバゴリュ",
+      "prefecture": 20,
+      "latitude": 36.66291976744978,
+      "longitude": 137.83668545518572,
+      "url": "http://www.hakubaescal.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "エコーバレースキー場",
+      "name_kana": "エコーバレースキージョウ",
+      "prefecture": 20,
+      "latitude": 36.120661646610394,
+      "longitude": 138.2077589974983,
+      "url": "http://www.echovalley.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "奥志賀高原スキー場",
+      "name_kana": "オクシガコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.765930290491504,
+      "longitude": 138.51458126868013,
+      "url": "http://www.okushiga.jp/skiresort/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "おんたけ2240",
+      "name_kana": "オンタケ2240",
+      "prefecture": 20,
+      "latitude": 35.86295558528828,
+      "longitude": 137.5286038839996,
+      "url": "http://ontake2240.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "開田高原マイアスキー場",
+      "name_kana": "カイダコウゲンマイアスキージョウ",
+      "prefecture": 20,
+      "latitude": 35.93029106761901,
+      "longitude": 137.53008392632933,
+      "url": "https://asumo-g.co.jp/mia-ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "軽井沢プリンスホテルスキー場",
+      "name_kana": "カルイザワプリンスホテルスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.34051922222955,
+      "longitude": 138.6436870975044,
+      "url": "http://www.princehotels.co.jp/ski/karuizawa/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "木曽福島スキー場",
+      "name_kana": "キソフクシマスキージョウ",
+      "prefecture": 20,
+      "latitude": 35.94080208013972,
+      "longitude": 137.66758965516578,
+      "url": "http://www.kisofukushima-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "北志賀高原小丸山スキー場",
+      "name_kana": "キタシガコウゲンコマルヤマスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.794814617681865,
+      "longitude": 138.4486463994369,
+      "url": "https://www.komaruyama.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "北信州 木島平スキー場",
+      "name_kana": "キタシンシュウ キジマダイラスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.819881557321004,
+      "longitude": 138.4033185975179,
+      "url": "https://kijimadaira-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "車山高原SKYPARKスキー場",
+      "name_kana": "クルマヤマコウゲンスカイパークスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.10208344866476,
+      "longitude": 138.20842626866167,
+      "url": "https://www.kurumayama.co.jp/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "黒姫高原スノーパーク",
+      "name_kana": "クロヒメコウゲンスノーパーク",
+      "prefecture": 20,
+      "latitude": 36.82641755585265,
+      "longitude": 138.16196852635417,
+      "url": "http://www.kurohime-kogen.co.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "小海リエックス・スキーバレー",
+      "name_kana": "コウミリエックス スキーバレー",
+      "prefecture": 20,
+      "latitude": 36.05430998011384,
+      "longitude": 138.41164655516877,
+      "url": "http://www.reex.co.jp/KOUMI/SKI/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "駒ヶ根高原スキー場",
+      "name_kana": "コマガネコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 35.740297471880574,
+      "longitude": 137.8895541974878,
+      "url": "https://www.chuo-alps.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "さかえ倶楽部スキー場",
+      "name_kana": "サカエクラブスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.996105379913494,
+      "longitude": 138.56509259752292,
+      "url": "http://www.sakaeclub.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "佐久スキーガーデン「パラダ」北パラダスキー場",
+      "name_kana": "サクスキーガーデン パラダ キタパラダスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.294179822017426,
+      "longitude": 138.51033692633925,
+      "url": "https://www.saku-parada.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "シャトレーゼスキーリゾート八ケ岳",
+      "name_kana": "シャトレーゼスキーリゾートヤツガタケ",
+      "prefecture": 20,
+      "latitude": 35.93025098014213,
+      "longitude": 138.49547255516526,
+      "url": "https://chateraise-skiresort.com/access/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "志賀高原リゾート中央エリア（サンバレー〜一の瀬）",
+      "name_kana": "シガコウゲンリソートチュウオウエリア サンバレー イチノセ",
+      "prefecture": 20,
+      "latitude": 36.72028637981883,
+      "longitude": 138.49668815518734,
+      "url": "http://www.shigakogen.co.jp/highlight/896-2",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "志賀高原 熊の湯スキー場",
+      "name_kana": "シガコウゲン クマノユスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.68346337600855,
+      "longitude": 138.4957655686779,
+      "url": "http://www.kumanoyu.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "志賀高原 焼額山スキー場",
+      "name_kana": "シガコウゲン ヤケビタイヤマスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.75259346489123,
+      "longitude": 138.51709569751605,
+      "url": "http://www.princehotels.co.jp/ski/shiga/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白樺高原国際スキー場",
+      "name_kana": "シラカバコウゲンコクサイスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.128445348796575,
+      "longitude": 138.27560365517093,
+      "url": "http://www.shirakaba-ski.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白樺湖ロイヤルヒル",
+      "name_kana": "シラカボコロイヤルヒル",
+      "prefecture": 20,
+      "latitude": 36.10198598010335,
+      "longitude": 138.23435699749794,
+      "url": "http://www.royalhill.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "しらかば2in1スキー場",
+      "name_kana": "しらかば2イン1スキージョウ",
+      "prefecture": 20,
+      "latitude": 36.09507208811261,
+      "longitude": 138.2634866840062,
+      "url": "http://www.2in1.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "野麦峠スキー場",
+      "name_kana": "ノムギトウゲスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.04840140563551,
+      "longitude": 137.70921583982388,
+      "url": "http://gakutoresort.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "爺ガ岳スキー場",
+      "name_kana": "ジイガタケスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.55857683376634,
+      "longitude": 137.80371599751052,
+      "url": "http://jiigatake.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "治部坂高原スキー場",
+      "name_kana": "ジブザカコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 35.35454088088004,
+      "longitude": 137.67165182631342,
+      "url": "http://www.jibuzaka.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "菅平高原スノーリゾート",
+      "name_kana": "スガダイラコウゲンスノーリゾート",
+      "prefecture": 20,
+      "latitude": 36.53243129888521,
+      "longitude": 138.3300890600862,
+      "url": "https://sugadaira-snowresort.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "菅平高原パインビークスキー場",
+      "name_kana": "スガダイラパインビークスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.517625349886934,
+      "longitude": 138.31821869222438,
+      "url": "http://www.pinebeak.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "番所ヶ原スキー場",
+      "name_kana": "バンショガハラスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.2602371800683,
+      "longitude": 138.11247165517446,
+      "url": "http://www.ueda-rpc.or.jp/facility/banshogaharaski.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "蓼科東急スキー場",
+      "name_kana": "サラシナトウキュウスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.06976830798585,
+      "longitude": 138.25695045516923,
+      "url": "https://www.tateshina-tokyu.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "タングラムスキーサーカス",
+      "name_kana": "タングラムスキーサーカス",
+      "prefecture": 20,
+      "latitude": 36.8537652648238,
+      "longitude": 138.262748526355,
+      "url": "http://www.tangram.jp/ski/index.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "中央アルプス千畳敷スキー場",
+      "name_kana": "チュウオウアルプスセンジョウジキスキージョウ",
+      "prefecture": 20,
+      "latitude": 35.77844328430837,
+      "longitude": 137.814533226325,
+      "url": "https://www.chuo-alps.com/hotel/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "伊那スキーリゾート",
+      "name_kana": "イナスキーリゾート",
+      "prefecture": 20,
+      "latitude": 35.81544128008979,
+      "longitude": 137.91670791283445,
+      "url": "https://inaski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "栂池高原スキー場",
+      "name_kana": "ツガイケコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.74897147996403,
+      "longitude": 137.8661572975159,
+      "url": "https://www.tsugaike.gr.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "戸隠スキー場",
+      "name_kana": "トガクシスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.75436097996288,
+      "longitude": 138.0946417263522,
+      "url": "http://www.togakusi.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "戸狩温泉スキー場",
+      "name_kana": "トガリオンセンスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.93886021431714,
+      "longitude": 138.3934784988246,
+      "url": "https://togari.jp/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "野沢温泉スキー場",
+      "name_kana": "ノザワオンセンスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.920686057288364,
+      "longitude": 138.45236611286532,
+      "url": "http://www.nozawaski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白馬岩岳スノーフィールド",
+      "name_kana": "ハクバイワタケスノーフィールド",
+      "prefecture": 20,
+      "latitude": 36.71528458038007,
+      "longitude": 137.85709218402332,
+      "url": "https://iwatake-mountain-resort.com/winter",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白馬コルチナスキー場",
+      "name_kana": "ハクバコルチナスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.776358067093504,
+      "longitude": 137.88867825518906,
+      "url": "http://www.hgp.co.jp/cortina/ski/index.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白馬さのさかスキー場",
+      "name_kana": "ハクバサノサカスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.629400590002795,
+      "longitude": 137.84168772634862,
+      "url": "https://sanosaka.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白馬乗鞍温泉スキー場",
+      "name_kana": "ハクバノリクラオンセンスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.76587458521924,
+      "longitude": 137.8739913263525,
+      "url": "http://www.hakuba-alps.co.jp/e-ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白馬八方尾根スキー場",
+      "name_kana": "ハクバハッポウオネスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.70221637997389,
+      "longitude": 137.83389772635073,
+      "url": "https://www.happo-one.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "HAKUBA VALLEY 鹿島槍スキー場",
+      "name_kana": "ハクバ バレー カシマヤリスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.59693446635718,
+      "longitude": 137.82545609751165,
+      "url": "http://www.kashimayari.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "Hakuba47 ウインタースポーツパーク",
+      "name_kana": "ハクバ47 ウインタースポーツパーク",
+      "prefecture": 20,
+      "latitude": 36.684991376179184,
+      "longitude": 137.828333297514,
+      "url": "http://www.hakuba47.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "聖高原スキー場",
+      "name_kana": "ヒジリコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.48695852821973,
+      "longitude": 138.07282455518086,
+      "url": "http://www.vill.omi.nagano.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ひらや高原スキー場",
+      "name_kana": "ヒラヤコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 35.306155735829094,
+      "longitude": 137.6243554551483,
+      "url": "https://hiraya-kougen.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ピラタス蓼科スノーリゾート",
+      "name_kana": "ピラタスサラシナスノーリゾート",
+      "prefecture": 20,
+      "latitude": 36.06799663547206,
+      "longitude": 138.30142626866072,
+      "url": "http://www.pilatus.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ファミリーゲレンデ 霧ヶ峰スキー場",
+      "name_kana": "ファミリーゲレンデ キリガミネスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.09769368010435,
+      "longitude": 138.16059235516985,
+      "url": "http://www.city.suwa.lg.jp/www/info/detail.jsp?id=1347",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "富士見高原スキー場",
+      "name_kana": "フジミコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 35.92275814919376,
+      "longitude": 138.3083419656156,
+      "url": "http://fujimikogen-ski.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "富士見パノラマリゾート",
+      "name_kana": "フジミパノラマリゾート",
+      "prefecture": 20,
+      "latitude": 35.910645080146374,
+      "longitude": 138.2069972263287,
+      "url": "https://www.fujimipanorama.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ブランシュたかやまスキーリゾート",
+      "name_kana": "ブランシュタカヤマスキーリゾート",
+      "prefecture": 20,
+      "latitude": 36.148159870520296,
+      "longitude": 138.20526315517134,
+      "url": "https://www.blanche-ski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ヘブンスそのはら SNOW WORLD",
+      "name_kana": "ヘブンスソノハラ スノー ワールド",
+      "prefecture": 20,
+      "latitude": 35.45520578025261,
+      "longitude": 137.66869459748003,
+      "url": "http://mt-heavens.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "Mt.KOSHA よませ温泉スキー場",
+      "name_kana": "マウント コシャ ヨマセオンセンスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.785741977995,
+      "longitude": 138.4151266891724,
+      "url": "http://x-jam.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "Mt.KOSHA X-JAM 高井富士",
+      "name_kana": "マウント コシャ エックス ジャム タカイフジ",
+      "prefecture": 20,
+      "latitude": 36.79986119438666,
+      "longitude": 138.42528914223297,
+      "url": "http://x-jam.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "Mt.乗鞍スノーリゾート",
+      "name_kana": "マウント ノリクラスノーリゾート",
+      "prefecture": 20,
+      "latitude": 36.12075261359896,
+      "longitude": 137.6168057263346,
+      "url": "https://www.brnorikura.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "斑尾高原スキー場",
+      "name_kana": "マダラオコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.85254214998109,
+      "longitude": 138.28957972635493,
+      "url": "http://www.madarao.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "八千穂高原スキー場",
+      "name_kana": "ヤチホコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.06991031278409,
+      "longitude": 138.3808396551692,
+      "url": "https://yachiho-kogen.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "やぶはら高原スキー場",
+      "name_kana": "ヤブハラコウゲンスキージョウ",
+      "prefecture": 20,
+      "latitude": 35.965479314575525,
+      "longitude": 137.73954632633013,
+      "url": "http://www.yabuhara-kogen.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "山田温泉キッズスノーパーク",
+      "name_kana": "ヤマダオンセンキッズスノーパーク",
+      "prefecture": 20,
+      "latitude": 36.6738555799797,
+      "longitude": 138.42606099751387,
+      "url": "",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "YAMABOKU ワイルドスノーパーク",
+      "name_kana": "ヤマボク ワイルドスノーパーク",
+      "prefecture": 20,
+      "latitude": 36.66762517424056,
+      "longitude": 138.46070152634977,
+      "url": "https://yamaboku.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "湯の丸スキー場",
+      "name_kana": "ユノマルスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.42824314490179,
+      "longitude": 138.42046325517913,
+      "url": "http://www.yunomaru.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "横手山・渋峠スキー場",
+      "name_kana": "ヨコテヤマ シブトウゲスキージョウ",
+      "prefecture": 20,
+      "latitude": 36.677292993962354,
+      "longitude": 138.5104399551862,
+      "url": "https://yokoteyama2307.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "竜王スキーパーク",
+      "name_kana": "リュウオウスキーパーク",
+      "prefecture": 20,
+      "latitude": 36.78395807995678,
+      "longitude": 138.45630462635302,
+      "url": "http://www.ryuoo.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "REWILD NINJA SNOW HIGHLAND",
+      "name_kana": "リワイルド ニンジャ スノーハイランド",
+      "prefecture": 20,
+      "latitude": 36.556840116232394,
+      "longitude": 138.35099875518276,
+      "url": "https://rewild-ninja-snow-highland.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "アウトドアイン母袋スキー場",
+      "name_kana": "アウトドアインモタイスキージョウ",
+      "prefecture": 21,
+      "latitude": 35.866811280156405,
+      "longitude": 136.95237245516358,
+      "url": "https://www.outdoor-in-motai.com/%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "揖斐高原スキー場",
+      "name_kana": "イビコウゲンスキージョウ",
+      "prefecture": 21,
+      "latitude": 35.53759071065575,
+      "longitude": 136.43030818399092,
+      "url": "http://www.ibikogen.com/ibikougen/index.shtml",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ウイングヒルズ白鳥リゾート",
+      "name_kana": "ウイングヒルズシラトリリゾート",
+      "prefecture": 21,
+      "latitude": 35.96588461300796,
+      "longitude": 136.802619997494,
+      "url": "http://winghills.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "荘川高原スキー場",
+      "name_kana": "ショウカワコウゲンスキージョウ",
+      "prefecture": 21,
+      "latitude": 36.05835153334777,
+      "longitude": 136.95748892633276,
+      "url": "http://www.hidatakayama.ne.jp/shokawa/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "白川郷平瀬温泉白弓スキー場",
+      "name_kana": "シラカゴウヒラセオンセンシラユミスキージョウ",
+      "prefecture": 21,
+      "latitude": 36.187209280084325,
+      "longitude": 136.9044015840086,
+      "url": "http://shirakawa-go.org/shirayumi/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "スターシュプール緑風リゾートひだ流葉",
+      "name_kana": "スターシュプールリョクフウリゾートヒダナガレハ",
+      "prefecture": 21,
+      "latitude": 36.31072762554061,
+      "longitude": 137.24007322633977,
+      "url": "http://hida-nagareha.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "スノーウェーブパーク白鳥高原",
+      "name_kana": "スノーウェーブパークシラトリコウゲン",
+      "prefecture": 21,
+      "latitude": 35.957238295621586,
+      "longitude": 136.8051211840022,
+      "url": "http://siratori-k.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "高鷲スノーパーク",
+      "name_kana": "タカススノーパーク",
+      "prefecture": 21,
+      "latitude": 35.99815080011297,
+      "longitude": 136.87715316865888,
+      "url": "http://www.takasu.gr.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ダイナランド",
+      "name_kana": "ダイナランド",
+      "prefecture": 21,
+      "latitude": 35.99038396099759,
+      "longitude": 136.8702532263309,
+      "url": "https://www.dynaland.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "飛騨かわいスキー場",
+      "name_kana": "ヒダカワイスキージョウ",
+      "prefecture": 21,
+      "latitude": 36.239697754804915,
+      "longitude": 137.08210750259911,
+      "url": "http://hidakawai.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "飛騨高山スキー場",
+      "name_kana": "ヒダタカヤマスキージョウ",
+      "prefecture": 21,
+      "latitude": 36.141134644345286,
+      "longitude": 137.4289177263351,
+      "url": "http://kankou.city.takayama.lg.jp/takayama-ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ひだ舟山スノーリゾート アルコピア",
+      "name_kana": "ヒダフナヤマスノーリゾート アルコピア",
+      "prefecture": 21,
+      "latitude": 36.03926610658168,
+      "longitude": 137.26126522633223,
+      "url": "http://arkopia.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "飛騨ほおのき平スキー場",
+      "name_kana": "ヒダホオノキダイラスキージョウ",
+      "prefecture": 21,
+      "latitude": 36.17581514050595,
+      "longitude": 137.49101222633604,
+      "url": "http://www.hounoki-daira.or.jp/index.php",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "平湯温泉スキー場",
+      "name_kana": "ヒラユオンセンスキージョウ",
+      "prefecture": 21,
+      "latitude": 36.18478485837054,
+      "longitude": 137.55284896866394,
+      "url": "http://www.hirayunomori.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ひるがの高原スキー場",
+      "name_kana": "ヒルガノコウゲンスキージョウ",
+      "prefecture": 21,
+      "latitude": 36.00602743842085,
+      "longitude": 136.90785522633126,
+      "url": "http://www.hiruganokogen.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ホワイトピアたかす",
+      "name_kana": "ホワイトピアタカス",
+      "prefecture": 21,
+      "latitude": 35.955842934144734,
+      "longitude": 136.9348860263299,
+      "url": "http://www.whitepia.jp/charge/stay.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "めいほうスキー場",
+      "name_kana": "メイホウスキージョウ",
+      "prefecture": 21,
+      "latitude": 35.94177166635468,
+      "longitude": 137.0429637263295,
+      "url": "http://www.meihoski.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "モンデウス飛騨位山スノーパーク",
+      "name_kana": "モンデウスヒダクライヤマスノーパーク",
+      "prefecture": 21,
+      "latitude": 36.061542817637346,
+      "longitude": 137.2262506668074,
+      "url": "http://www.montdeus.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "鷲ヶ岳スキー場",
+      "name_kana": "ワシガタケスキージョウ",
+      "prefecture": 21,
+      "latitude": 35.94246229400062,
+      "longitude": 136.91956672632952,
+      "url": "https://ski.washigatake.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "スノーリゾート イエティ",
+      "name_kana": "スノーリゾート イエティ",
+      "prefecture": 22,
+      "latitude": 35.300038492696025,
+      "longitude": 138.76839618398435,
+      "url": "http://www.yeti-resort.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "リバウェル井川スキー場",
+      "name_kana": "リバウェルイガワスキージョウ",
+      "prefecture": 22,
+      "latitude": 35.21575251093812,
+      "longitude": 138.27899756863744,
+      "url": "http://www.city.shizuoka.jp/000_004464.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "茶臼山高原スキー場",
+      "name_kana": "チャウスヤマコウゲンスキージョウ",
+      "prefecture": 23,
+      "latitude": 35.22011658030953,
+      "longitude": 137.65503389747371,
+      "url": "http://www.chausuyama.jp/exercise/2014022119103644.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "御在所スキー場",
+      "name_kana": "ゴザイショスキージョウ",
+      "prefecture": 24,
+      "latitude": 35.0203263667233,
+      "longitude": 136.42324602630438,
+      "url": "https://www.gozaisho.co.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "グランスノー奥伊吹",
+      "name_kana": "グランスノーオクイブキ",
+      "prefecture": 25,
+      "latitude": 35.52162158023683,
+      "longitude": 136.38671866864573,
+      "url": "https://www.okuibuki.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "びわ湖バレイ",
+      "name_kana": "ビワコバレイ",
+      "prefecture": 25,
+      "latitude": 35.209103748252446,
+      "longitude": 135.88646085514566,
+      "url": "http://www.biwako-valley.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "国境高原スノーパーク",
+      "name_kana": "クニザカイスノーパーク",
+      "prefecture": 25,
+      "latitude": 35.5357966108516,
+      "longitude": 136.0924763398099,
+      "url": "http://www.kunizakai.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "余呉高原リゾート ヤップ",
+      "name_kana": "ヨゴコウゲンリゾートヤップ",
+      "prefecture": 25,
+      "latitude": 35.69830489309192,
+      "longitude": 136.15792925515896,
+      "url": "http://www.yogo45.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "箱館山スキー場",
+      "name_kana": "ハコダテヤマスキージョウ",
+      "prefecture": 25,
+      "latitude": 35.42764896500553,
+      "longitude": 135.99591502631546,
+      "url": "http://www.hakodateyama.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "赤子山スキー場 スノーパル",
+      "name_kana": "アカゴヤマスキージョウ スノーパル",
+      "prefecture": 25,
+      "latitude": 35.54671133309517,
+      "longitude": 136.21974537049945,
+      "url": "http://woodypal.jp/snowpal",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "朽木スキー場",
+      "name_kana": "クツキスキージョウ",
+      "prefecture": 25,
+      "latitude": 35.32903732722022,
+      "longitude": 135.939797683985,
+      "url": "https://kutsuki-snowpark.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "マキノ高原マキノスキー場",
+      "name_kana": "マキノコウゲンマキノスキージョウ",
+      "prefecture": 25,
+      "latitude": 35.49621464531999,
+      "longitude": 136.03358069748117,
+      "url": "http://makinokougen.co.jp/publics/index/221/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "アップかんなべ",
+      "name_kana": "アップカンナベ",
+      "prefecture": 28,
+      "latitude": 35.50084302843424,
+      "longitude": 134.6782472464194,
+      "url": "http://www.kannabe.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "奥神鍋スキー場",
+      "name_kana": "オクカンナベスキージョウ",
+      "prefecture": 28,
+      "latitude": 35.50461898024099,
+      "longitude": 134.6524077263176,
+      "url": "http://www.okukan.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "おじろスキー場",
+      "name_kana": "オジロスキージョウ",
+      "prefecture": 28,
+      "latitude": 35.45191687947627,
+      "longitude": 134.5313591307676,
+      "url": "http://www.ojiro.or.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "神鍋高原 万場スキー場",
+      "name_kana": "カンナベコウゲン マンバスキージョウ",
+      "prefecture": 28,
+      "latitude": 35.4942663153791,
+      "longitude": 134.66369289748107,
+      "url": "http://www.manba-ski.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "スカイバレイスキー場",
+      "name_kana": "スカイバレイスキージョウ",
+      "prefecture": 28,
+      "latitude": 35.39799823467732,
+      "longitude": 134.5733414551508,
+      "url": "http://www.skyvalley.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "但馬牧場公園スキー場",
+      "name_kana": "タジマボクジョウコウエンスキージョウ",
+      "prefecture": 28,
+      "latitude": 35.515847911398474,
+      "longitude": 134.4892251974817,
+      "url": "http://www.bokujyo.com/winter/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ちくさ高原スキー場",
+      "name_kana": "チクサコウゲンスキージョウ",
+      "prefecture": 28,
+      "latitude": 35.22053109410171,
+      "longitude": 134.3898853384681,
+      "url": "http://www.chikusakogen.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ハイパーボウル東鉢",
+      "name_kana": "ハイパーボウルトウタチ",
+      "prefecture": 28,
+      "latitude": 35.38589660808925,
+      "longitude": 134.56654993769286,
+      "url": "http://www.tohachi.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ハチ・ハチ北スキー場",
+      "name_kana": "ハチ ハチキタスキージョウ",
+      "prefecture": 28,
+      "latitude": 35.407658869348865,
+      "longitude": 134.5539292263149,
+      "url": "https://www.hachi-hachikita.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ばんしゅう戸倉スキー場",
+      "name_kana": "バンシュウトクラスキージョウ",
+      "prefecture": 28,
+      "latitude": 35.28925358029265,
+      "longitude": 134.54263925514783,
+      "url": "https://ooyaski.com/bantoku/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ミカタスノーパーク",
+      "name_kana": "ミカタスノーパーク",
+      "prefecture": 28,
+      "latitude": 35.41371141559258,
+      "longitude": 134.5251476782247,
+      "url": "http://mikatasnowpark.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "峰山高原リゾート",
+      "name_kana": "ミネヤマコウゲンリゾート",
+      "prefecture": 28,
+      "latitude": 35.13210235839408,
+      "longitude": 134.66667503240086,
+      "url": "https://mineyama-kogen-resort.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "氷ノ山国際スキー場",
+      "name_kana": "ヒョウノサンコクサイスキージョウ",
+      "prefecture": 28,
+      "latitude": 35.36991021103656,
+      "longitude": 134.53924271048277,
+      "url": "http://www.hyounosen.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "六甲山スノーパーク",
+      "name_kana": "ロッコウザンスノーパーク",
+      "prefecture": 28,
+      "latitude": 34.76790668042251,
+      "longitude": 135.24260709746153,
+      "url": "http://www.rokkosan.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "若杉高原おおやスキー場",
+      "name_kana": "ワカスキコウゲンオオヤスキージョウ",
+      "prefecture": 28,
+      "latitude": 35.2831771526574,
+      "longitude": 134.5878769832249,
+      "url": "https://ooyaski.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "洞川スノーパーク",
+      "name_kana": "ドロガワスノーパーク",
+      "prefecture": 29,
+      "latitude": 34.2873318805478,
+      "longitude": 135.89961722628502,
+      "url": "http://www4.kcn.ne.jp/~zaisanku/spd.htm",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "鏡ヶ成スキー場",
+      "name_kana": "カガミガナリスキージョウ",
+      "prefecture": 31,
+      "latitude": 35.34428748593272,
+      "longitude": 133.59137389747707,
+      "url": "http://www.qkamura.or.jp/ski/daisen/#tab1",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "だいせんホワイトリゾート",
+      "name_kana": "ダイセンホワイトリゾート",
+      "prefecture": 31,
+      "latitude": 35.396982671667594,
+      "longitude": 133.53412315515075,
+      "url": "http://www.daisen-resort.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "大山ますみず高原スキー場 SNOW PARK",
+      "name_kana": "ダイセンマスミズコウゲンスキージョウ スノーパーク",
+      "prefecture": 31,
+      "latitude": 35.36947063159102,
+      "longitude": 133.5174177974778,
+      "url": "http://www.masumizu.net/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "奥大山スキー場",
+      "name_kana": "オクダイセンスキージョウ",
+      "prefecture": 31,
+      "latitude": 35.338442944615544,
+      "longitude": 133.55614228795145,
+      "url": "http://okudaisen.info/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "わかさ氷ノ山スキー場",
+      "name_kana": "ワカサヒョウノセンスキージョウ",
+      "prefecture": 31,
+      "latitude": 35.35265302977261,
+      "longitude": 134.48908038398554,
+      "url": "http://www.hyounosen.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "琴引フォレストパーク スキー場",
+      "name_kana": "コトビキフォレストパーク スキージョウ",
+      "prefecture": 32,
+      "latitude": 35.054867980350174,
+      "longitude": 132.768249912814,
+      "url": "http://ski.kotobiki.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "三井野原スキー場",
+      "name_kana": "ミイノハラスキージョウ",
+      "prefecture": 32,
+      "latitude": 35.091629316430975,
+      "longitude": 133.11730019747026,
+      "url": "http://www.okuizumo.ne.jp/~miinohara/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "いぶきの里スキー場",
+      "name_kana": "イブキノサトスキージョウ",
+      "prefecture": 33,
+      "latitude": 35.16926778032187,
+      "longitude": 133.4092069839808,
+      "url": "https://www.ibukinosato.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "大茅スキー場",
+      "name_kana": "オオガヤスキージョウ",
+      "prefecture": 33,
+      "latitude": 35.22484398030819,
+      "longitude": 134.36712426863764,
+      "url": "https://awakura-gr.com/outdoor/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ひるぜんベアバレースキー場",
+      "name_kana": "ヒルゼンベアバレースキージョウ",
+      "prefecture": 33,
+      "latitude": 35.26124746149613,
+      "longitude": 133.5963118686386,
+      "url": "http://ww51.tiki.ne.jp/~bear-ski/index.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "恩原高原スキー場",
+      "name_kana": "オンバラコウゲンスキージョウ",
+      "prefecture": 33,
+      "latitude": 35.31262538705665,
+      "longitude": 133.9807327862907,
+      "url": "http://www.ombara-kogen.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "津黒高原スキー場",
+      "name_kana": "ツグロコウゲンスキージョウ",
+      "prefecture": 33,
+      "latitude": 35.25848550169406,
+      "longitude": 133.79592618398308,
+      "url": "http://www.tsuguro.jp/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ひるぜんキッズスノーパーク",
+      "name_kana": "ヒルゼンキッズスノーパーク",
+      "prefecture": 33,
+      "latitude": 35.29499708103879,
+      "longitude": 133.63039206153516,
+      "url": "https://qkamura.or.jp/hiruzen/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "芸北高原大佐スキー場",
+      "name_kana": "ゲイホクコウゲンオオサスキージョウ",
+      "prefecture": 34,
+      "latitude": 34.74785661151723,
+      "longitude": 132.22002418396954,
+      "url": "http://www.osaski.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "恐羅漢スノーパーク",
+      "name_kana": "オソラカンスノーパーク",
+      "prefecture": 34,
+      "latitude": 34.595704148715456,
+      "longitude": 132.14664572629312,
+      "url": "http://www.osorakan.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "芸北国際スキー場",
+      "name_kana": "ゲイホクコクサイスキージョウ",
+      "prefecture": 34,
+      "latitude": 34.709447648330176,
+      "longitude": 132.2376100892122,
+      "url": "https://www.facebook.com/geihokukokusai/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "スノーリゾート猫山",
+      "name_kana": "スノーリゾートネコヤマ",
+      "prefecture": 34,
+      "latitude": 35.040845116995804,
+      "longitude": 133.19928899746878,
+      "url": "http://www.nekoyama.net/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "道後山高原スキー場",
+      "name_kana": "ドウゴヤマコウゲンスキージョウ",
+      "prefecture": 34,
+      "latitude": 35.05646668034981,
+      "longitude": 133.20356376863313,
+      "url": "http://www.dogoyamakogen.server-shared.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ひろしま県民の森スキー場",
+      "name_kana": "ヒロシマケンミンノモリスキージョウ",
+      "prefecture": 34,
+      "latitude": 35.06939990083038,
+      "longitude": 133.07160177335237,
+      "url": "http://www.kenmori.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "女鹿平温泉めがひらスキー場",
+      "name_kana": "メガヒラオンセンメガヒラスキージョウ",
+      "prefecture": 34,
+      "latitude": 34.49848266464498,
+      "longitude": 132.14388145512663,
+      "url": "http://www.megahira.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "もみのき森林公園スキー場",
+      "name_kana": "モミノキシンリンコウエンスキージョウ",
+      "prefecture": 34,
+      "latitude": 34.477677522140866,
+      "longitude": 132.1763477000196,
+      "url": "http://www.mominoki.or.jp/snow.html",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "やわたハイランド191リゾート",
+      "name_kana": "ヤワタハイランド191リゾート",
+      "prefecture": 34,
+      "latitude": 34.694529580441156,
+      "longitude": 132.15981426862348,
+      "url": "http://yawata191.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "ユートピアサイオト",
+      "name_kana": "ユートピアサイオト",
+      "prefecture": 34,
+      "latitude": 34.78592998792306,
+      "longitude": 132.3175106947223,
+      "url": "http://www.saioto.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "りんご今日話国スキー場",
+      "name_kana": "リンゴキョウワコクスキージョウ",
+      "prefecture": 34,
+      "latitude": 35.02289255253661,
+      "longitude": 132.8735567263046,
+      "url": "https://www.hiroshima-kankou.com/spot/8313",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "十種ヶ峰スキー場",
+      "name_kana": "トクサガミネスキージョウ",
+      "prefecture": 35,
+      "latitude": 34.45201147450856,
+      "longitude": 131.69583715512545,
+      "url": "http://woodpark.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "井川スキー場 腕山",
+      "name_kana": "イカワスキージョウ ウデヤマ",
+      "prefecture": 36,
+      "latitude": 33.963217879093605,
+      "longitude": 133.88486872627658,
+      "url": "http://www.ikawaski.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "久万スキーランド",
+      "name_kana": "クマスキーランド",
+      "prefecture": 38,
+      "latitude": 33.718513663164444,
+      "longitude": 132.87447849135492,
+      "url": "http://www.kumax.co.jp/04sl/framepage2.htm",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "石鎚スキー場",
+      "name_kana": "イシズキスキージョウ",
+      "prefecture": 38,
+      "latitude": 33.794086396794484,
+      "longitude": 133.1317947974358,
+      "url": "http://www.ishizuchi.com/ski/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "SOL-FA オダスキーゲレンデ",
+      "name_kana": "ソルファ オダスキーゲレンデ",
+      "prefecture": 38,
+      "latitude": 33.542919020107405,
+      "longitude": 132.83358550298863,
+      "url": "http://www.sol-fa.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "天狗高原スキー場",
+      "name_kana": "テングコウゲンスキージョウ",
+      "prefecture": 39,
+      "latitude": 33.47610882986481,
+      "longitude": 133.0019688685916,
+      "url": "http://www.tengusou.com/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "天山スキー場",
+      "name_kana": "テンザンスキージョウ",
+      "prefecture": 41,
+      "latitude": 33.35366491908855,
+      "longitude": 130.14723842626083,
+      "url": "http://www.tenzan-resort.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "くじゅう森林公園スキー場",
+      "name_kana": "クジュウシンリンコウエンスキージョウ",
+      "prefecture": 44,
+      "latitude": 33.09944408088122,
+      "longitude": 131.17839832625418,
+      "url": "https://www.kujyuski.co.jp/",
+      "live_camera_url": ""
+    }
+  },
+  {
+    "model": "resorts.Resort",
+    "fields": {
+      "name": "五ヶ瀬ハイランドスキー場",
+      "name_kana": "ゴカセハイランドスキージョウ",
+      "prefecture": 45,
+      "latitude": 32.57903128103767,
+      "longitude": 131.1177665550773,
+      "url": "http://www.gokase.co.jp/ski/",
+      "live_camera_url": ""
+    }
+  }
+]

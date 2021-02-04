@@ -627,5 +627,5 @@ Temporary Items
 
 # fixtures
 
-resorts/fixtures/
-observatories/fixtures/
+# resorts/fixtures/
+# observatories/fixtures/
