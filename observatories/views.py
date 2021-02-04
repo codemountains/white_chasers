@@ -25,12 +25,21 @@ def get_observatory_list(lat, lon, dist):
 	FROM %(observatory_table)s
 	INNER JOIN %(snowfall_table)s
 	ON %(observatory_table)s.id = %(snowfall_table)s.observatory_id
-	HAVING distance < %%s
+	WHERE (
+		6371
+		* acos(
+		  cos(radians(%%s))
+		  * cos(radians(latitude))
+		  * cos(radians(longitude) - radians(%%s))
+		  + sin(radians(%%s))
+		  * sin(radians(latitude))
+		) 
+	) < %%s
 	ORDER BY distance
 	""" % {
 		'observatory_table': Observatory._meta.db_table,
 		'snowfall_table': Snowfall._meta.db_table
-	}, [lat, lon, lat, dist])
+	}, [lat, lon, lat, lat, lon, lat, dist])
 	return queryset
 
 
