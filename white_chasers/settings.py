@@ -28,9 +28,10 @@ ALLOWED_HOSTS = env.list('ALLOWED_HOSTS')
 
 # CORS ORIGIN WHITELIST
 
-CORS_ORIGIN_WHITELIST = [
-    'http://localhost:3000',
-]
+# CORS_ORIGIN_WHITELIST = [
+#     'http://localhost:3000',
+# ]
+CORS_ORIGIN_WHITELIST = env.list('CORS_ORIGIN_WHITELIST')
 
 
 # Application definition
