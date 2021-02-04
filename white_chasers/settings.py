@@ -1,5 +1,6 @@
 import os
 import environ
+import dj_database_url
 from pathlib import Path
 from datetime import timedelta
 
@@ -117,6 +118,9 @@ SIMPLE_JWT = {
 DATABASES = {
     'default': env.db(),
 }
+
+db_from_env = dj_database_url.config()
+DATABASES['default'].update(db_from_env)
 
 DATA_UPLOAD_MAX_NUMBER_FIELDS = 3000
 
