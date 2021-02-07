@@ -29,6 +29,11 @@ class ForecastViewSet(viewsets.ModelViewSet):
 		response = requests.get(url, params=query)
 		json_list = response.json()['list']
 
+		forecast = Forecast.objects.filter(resort=resort).first()
+		if forecast is not None:
+			ForecastDetail.objects.filter(forecast=forecast).delete()
+			Forecast.objects.filter(resort=resort).delete()
+
 		forecast = serializer.save(weather=json_list)
 
 		for index in range(response.json()['cnt']):
@@ -49,6 +54,10 @@ class ForecastViewSet(viewsets.ModelViewSet):
 			json_snow = json_item.get('snow')
 			if json_snow is not None:
 				snow = json_snow['3h']
+
+			# forecast_detail = ForecastDetail.objects.filter(forecast=forecast, json_index=index).first()
+			# if forecast_detail is not None:
+			# 	forecast_detail.delete()
 
 			detail = ForecastDetail(
 				forecast=forecast,
