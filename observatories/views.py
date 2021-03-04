@@ -23,8 +23,6 @@ def get_observatory_list(lat, lon, dist):
 		) 
 	) AS distance
 	FROM %(observatory_table)s
-	INNER JOIN %(snowfall_table)s
-	ON %(observatory_table)s.id = %(snowfall_table)s.observatory_id
 	WHERE (
 		6371
 		* acos(
@@ -37,8 +35,7 @@ def get_observatory_list(lat, lon, dist):
 	) < %%s
 	ORDER BY distance
 	""" % {
-		'observatory_table': Observatory._meta.db_table,
-		'snowfall_table': Snowfall._meta.db_table
+		'observatory_table': Observatory._meta.db_table
 	}, [lat, lon, lat, lat, lon, lat, dist])
 	return queryset
 
@@ -58,12 +55,9 @@ def get_observatory_retrieve(lat, lon, observatory_id):
 		) 
 	) AS distance
 	FROM %(observatory_table)s
-	INNER JOIN %(snowfall_table)s
-	ON %(observatory_table)s.id = %(snowfall_table)s.observatory_id
 	WHERE %(observatory_table)s.id = %%s
 	""" % {
-		'observatory_table': Observatory._meta.db_table,
-		'snowfall_table': Snowfall._meta.db_table
+		'observatory_table': Observatory._meta.db_table
 	}, [lat, lon, lat, observatory_id.hex])
 	return queryset
 
