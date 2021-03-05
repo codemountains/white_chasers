@@ -40,6 +40,38 @@ def get_observatory_list(lat, lon, dist):
 	return queryset
 
 
+def get_observatory_list_by_center(lat, lon, dist):
+	queryset = Observatory.objects.raw("""
+	SELECT
+	*,
+	(
+		6371
+		* acos(
+		  cos(radians(%%s))
+		  * cos(radians(latitude))
+		  * cos(radians(longitude) - radians(%%s))
+		  + sin(radians(%%s))
+		  * sin(radians(latitude))
+		) 
+	) AS distance
+	FROM %(observatory_table)s
+	WHERE (
+		6371
+		* acos(
+		  cos(radians(%%s))
+		  * cos(radians(latitude))
+		  * cos(radians(longitude) - radians(%%s))
+		  + sin(radians(%%s))
+		  * sin(radians(latitude))
+		) 
+	) < %%s
+	ORDER BY distance
+	""" % {
+		'observatory_table': Observatory._meta.db_table
+	}, [lat, lon, lat, lat, lon, lat, dist])
+	return queryset
+
+
 def get_observatory_retrieve(lat, lon, observatory_id):
 	queryset = Observatory.objects.raw("""
 	SELECT
@@ -64,9 +96,7 @@ def get_observatory_retrieve(lat, lon, observatory_id):
 
 class ObservatoryViewSet(viewsets.ReadOnlyModelViewSet):
 	serializer_class = MeasuredObservatorySerializer
-	queryset = Observatory.objects.filter(
-		observatory_snowfall__isnull=False
-	).order_by('code')
+	queryset = Observatory.objects.order_by('code')
 	permission_classes = (AllowAny,)
 	pagination_class = ObservatoryPagination
 	filter_class = ObservatoryFilter
@@ -74,14 +104,27 @@ class ObservatoryViewSet(viewsets.ReadOnlyModelViewSet):
 	def list(self, request, *args, **kwargs):
 		resort_id = self.request.query_params.get('resort')
 		resort = Resort.objects.filter(id=resort_id).first()
+
+		latitude = self.request.query_params.get('lat')
+		longitude = self.request.query_params.get('lon')
+
 		dist = self.request.query_params.get('dist')
 		if dist is None:
-			dist = '30'
+			dist = '40'
 
 		if resort is not None:
 			queryset = get_observatory_list(
 				str(resort.latitude),
 				str(resort.longitude),
+				dist
+			)
+			paginate_queryset = self.paginate_queryset(queryset)
+			serializer = MeasuredObservatorySerializer(paginate_queryset, many=True)
+			return self.get_paginated_response(serializer.data)
+		elif latitude is not None and longitude is not None:
+			queryset = get_observatory_list_by_center(
+				str(latitude),
+				str(longitude),
 				dist
 			)
 			paginate_queryset = self.paginate_queryset(queryset)
